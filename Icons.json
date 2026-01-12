@@ -33,5 +33,25 @@
     "name": "IconArrowDirectionUp",
     "title": "Arrow Direction Up",
     "tag": "Arrow Direction Up"
+  },
+  {
+    "name": "IconArrowPointingDirectionDownRight",
+    "title": "Arrow Pointing Direction Down Right",
+    "tag": "Arrow Pointing Direction Down Right"
+  },
+  {
+    "name": "IconArrowPointingDirectionDownLeft",
+    "title": "Arrow Pointing Direction Down Left",
+    "tag": "Arrow Pointing Direction Down Left"
+  },
+  {
+    "name": "IconArrowPointingDirectionUpRight",
+    "title": "Arrow Pointing Direction Up Right",
+    "tag": "Arrow Pointing Direction Up Right"
+  },
+  {
+    "name": "IconArrowPointingDirectionUpLeft",
+    "title": "Arrow Pointing Direction Up Left",
+    "tag": "Arrow Pointing Direction Up Left"
   }
 ]
