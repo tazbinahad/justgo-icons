@@ -98,5 +98,420 @@
     "name": "IconArrowDoubleHorizontal",
     "title": "Arrow Double Horizontal",
     "tag": "Club Transfer"
+  },
+  {
+    "name": "IconArrowSyncDirectionDescending",
+    "title": "Arrow Sync Direction Descending",
+    "tag": "Arrow Sync Direction Descending"
+  },
+  {
+    "name": "IconArrowSyncDirectionAscending",
+    "title": "Arrow Sync Direction Ascending",
+    "tag": "Arrow Sync Direction Ascending"
+  },
+  {
+    "name": "IconActivityOutline",
+    "title": "Activity Outline",
+    "tag": "Activity Outline"
+  },
+  {
+    "name": "IconActivityFill",
+    "title": "Activity Fill",
+    "tag": "Activity Fill"
+  },
+  {
+    "name": "IconArrowFlowHoriozontalDirectionOutgoing",
+    "title": "Arrow Flow Horiozontal Direction Outgoing",
+    "tag": "Arrow Flow Horiozontal Direction Outgoing"
+  },
+  {
+    "name": "IconArrowFlowHoriozontalDirectionIncoming",
+    "title": "Arrow Flow Horiozontal Direction Incoming",
+    "tag": "Arrow Flow Horiozontal Direction Incoming"
+  },
+  {
+    "name": "IconArrowFlowVerticalProperty1ArrowDoubleDown",
+    "title": "Arrow Flow Vertical Property1 Arrow Double Down",
+    "tag": "Arrow Flow Vertical Property1 Arrow Double Down"
+  },
+  {
+    "name": "IconArrowFlowVerticalProperty1ArrowDoubleUp",
+    "title": "Arrow Flow Vertical Property1 Arrow Double Up",
+    "tag": "Arrow Flow Vertical Property1 Arrow Double Up"
+  },
+  {
+    "name": "IconAlertCircleStyleOutline",
+    "title": "Alert Circle Style Outline",
+    "tag": "Alert Circle Style Outline"
+  },
+  {
+    "name": "IconAlertOctagonStyleOutline",
+    "title": "Alert Octagon Style Outline",
+    "tag": "Alert Octagon Style Outline"
+  },
+  {
+    "name": "IconAlertTriangleStyleOutline",
+    "title": "Alert Triangle Style Outline",
+    "tag": "Alert Triangle Style Outline"
+  },
+  {
+    "name": "IconAlertOctagonStyleFill",
+    "title": "Alert Octagon Style Fill",
+    "tag": "Alert Octagon Style Fill"
+  },
+  {
+    "name": "IconAlertCircleStyleFill",
+    "title": "Alert Circle Style Fill",
+    "tag": "Alert Circle Style Fill"
+  },
+  {
+    "name": "IconAlertTriangleStyleBulk",
+    "title": "Alert Triangle Style Bulk",
+    "tag": "Alert Triangle Style Bulk"
+  },
+  {
+    "name": "IconAlertTriangleStyleFill",
+    "title": "Alert Triangle Style Fill",
+    "tag": "Alert Triangle Style Fill"
+  },
+  {
+    "name": "IconAlertOctagonStyleBulk",
+    "title": "Alert Octagon Style Bulk",
+    "tag": "Alert Octagon Style Bulk"
+  },
+  {
+    "name": "IconAlertCircleStyleBulk",
+    "title": "Alert Circle Style Bulk",
+    "tag": "Alert Circle Style Bulk"
+  },
+  {
+    "name": "IconAccountSettingsOutline",
+    "title": "Account Settings Outline",
+    "tag": "Account Settings Outline"
+  },
+  {
+    "name": "IconAccountSettingsFill",
+    "title": "Account Settings Fill",
+    "tag": "Account Settings Fill"
+  },
+  {
+    "name": "IconAccountFill",
+    "title": "Account Fill",
+    "tag": "Individual | user | profile"
+  },
+  {
+    "name": "IconAccountRemoveOutline",
+    "title": "Account Remove Outline",
+    "tag": "Suspend"
+  },
+  {
+    "name": "IconAccountRemoveFill",
+    "title": "Account Remove Fill",
+    "tag": "Account Remove Fill"
+  },
+  {
+    "name": "IconAccountOutline",
+    "title": "Account Outline",
+    "tag": "Individual | user | profile"
+  },
+  {
+    "name": "IconAccountMinusOutline",
+    "title": "Account Minus Outline",
+    "tag": "Inactive"
+  },
+  {
+    "name": "IconAccountMinusFill",
+    "title": "Account Minus Fill",
+    "tag": "Account Minus Fill"
+  },
+  {
+    "name": "IconAccountPlusOutline",
+    "title": "Account Plus Outline",
+    "tag": "Account Plus Outline"
+  },
+  {
+    "name": "IconAccountPlusFill",
+    "title": "Account Plus Fill",
+    "tag": "Account Plus Fill"
+  },
+  {
+    "name": "IconAccountCheckOutline",
+    "title": "Account Check Outline",
+    "tag": "Account Check Outline"
+  },
+  {
+    "name": "IconAccountCancelFill",
+    "title": "Account Cancel Fill",
+    "tag": "Account Cancel Fill"
+  },
+  {
+    "name": "IconAccountCancelOutline",
+    "title": "Account Cancel Outline",
+    "tag": "Account Cancel Outline"
+  },
+  {
+    "name": "IconAccountAlertOutline",
+    "title": "Account Alert Outline",
+    "tag": "Account Alert Outline"
+  },
+  {
+    "name": "IconAccountAlertFill",
+    "title": "Account Alert Fill",
+    "tag": "Account Alert Fill"
+  },
+  {
+    "name": "IconAccountCheckFill",
+    "title": "Account Check Fill",
+    "tag": "Account Check Fill"
+  },
+  {
+    "name": "IconAccountClockOutline",
+    "title": "Account Clock Outline",
+    "tag": "Account Clock Outline"
+  },
+  {
+    "name": "IconAccountClockFill",
+    "title": "Account Clock Fill",
+    "tag": "Account Clock Fill"
+  },
+  {
+    "name": "IconAccountTieFill",
+    "title": "Account Tie Fill",
+    "tag": "admin"
+  },
+  {
+    "name": "IconAccountStarOutline",
+    "title": "Account Star Outline",
+    "tag": "membership | user-star"
+  },
+  {
+    "name": "IconAccountStarFill",
+    "title": "Account Star Fill",
+    "tag": "Account Star Fill"
+  },
+  {
+    "name": "IconAccountOffOutline",
+    "title": "Account Off Outline",
+    "tag": "Account Off Outline"
+  },
+  {
+    "name": "IconAccountOffFill",
+    "title": "Account Off Fill",
+    "tag": "Account Off Fill"
+  },
+  {
+    "name": "IconAccountCircleOutline",
+    "title": "Account Circle Outline",
+    "tag": "Account Circle Outline"
+  },
+  {
+    "name": "IconAccountCircleFill",
+    "title": "Account Circle Fill",
+    "tag": "Account Circle Fill"
+  },
+  {
+    "name": "IconAccountChildCircleFill",
+    "title": "Account Child Circle Fill",
+    "tag": "Account Child Circle Fill"
+  },
+  {
+    "name": "IconAccountChildFill",
+    "title": "Account Child Fill",
+    "tag": "Account Child Fill"
+  },
+  {
+    "name": "IconAccountBadgeOutline",
+    "title": "Account Badge Outline",
+    "tag": "Account Badge Outline"
+  },
+  {
+    "name": "IconAccountBadgeFill",
+    "title": "Account Badge Fill",
+    "tag": "Account Badge Fill"
+  },
+  {
+    "name": "IconAccountMultipleOutline",
+    "title": "Account Multiple Outline",
+    "tag": "members"
+  },
+  {
+    "name": "IconAccountMultipleMinusFill",
+    "title": "Account Multiple Minus Fill",
+    "tag": "Account Multiple Minus Fill"
+  },
+  {
+    "name": "IconAccountMultipleFill",
+    "title": "Account Multiple Fill",
+    "tag": "Account Multiple Fill"
+  },
+  {
+    "name": "IconAccountGroupOutline",
+    "title": "Account Group Outline",
+    "tag": "Account Group Outline"
+  },
+  {
+    "name": "IconAccountGroupFill",
+    "title": "Account Group Fill",
+    "tag": "Account Group Fill"
+  },
+  {
+    "name": "IconAccountMultipleMinusOutline",
+    "title": "Account Multiple Minus Outline",
+    "tag": "Account Multiple Minus Outline"
+  },
+  {
+    "name": "IconAccountMultiplePlusOutline",
+    "title": "Account Multiple Plus Outline",
+    "tag": "Account Multiple Plus Outline"
+  },
+  {
+    "name": "IconAccountMultiplePlusFill",
+    "title": "Account Multiple Plus Fill",
+    "tag": "Account Multiple Plus Fill"
+  },
+  {
+    "name": "IconAccountChildOutline",
+    "title": "Account Child Outline",
+    "tag": "Account Child Outline"
+  },
+  {
+    "name": "IconAccountTieOutline",
+    "title": "Account Tie Outline",
+    "tag": "admin"
+  },
+  {
+    "name": "IconAccountChildCircleOutline",
+    "title": "Account Child Circle Outline",
+    "tag": "Account Child Circle Outline"
+  },
+  {
+    "name": "IconAccountText",
+    "title": "Account Text",
+    "tag": "Account Text"
+  },
+  {
+    "name": "IconAdd",
+    "title": "Add",
+    "tag": "plus"
+  },
+  {
+    "name": "IconAddCircleOutline",
+    "title": "Add Circle Outline",
+    "tag": "plus circle outline"
+  },
+  {
+    "name": "IconAddCircleFill",
+    "title": "Add Circle Fill",
+    "tag": "plus circle filled |"
+  },
+  {
+    "name": "IconAt",
+    "title": "At",
+    "tag": "At"
+  },
+  {
+    "name": "IconAdvanceSearch",
+    "title": "Advance Search",
+    "tag": "Advance Search"
+  },
+  {
+    "name": "IconAlarmLightOutline",
+    "title": "Alarm Light Outline",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconAlarmLightFill",
+    "title": "Alarm Light Fill",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconAlarmLightOffOutline",
+    "title": "Alarm Light Off Outline",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconAlarmLightOffFill",
+    "title": "Alarm Light Off Fill",
+    "tag": "Alert indicator | Warning beacon | Notification signal | Emergency signal | Alarm indicator | Alert beacon | Caution light | Attention signal | Hazard light | Notification light"
+  },
+  {
+    "name": "IconActivitySwim",
+    "title": "Activity Swim",
+    "tag": "Activity Swim"
+  },
+  {
+    "name": "IconActivityRide",
+    "title": "Activity Ride",
+    "tag": "Activity Ride"
+  },
+  {
+    "name": "IconActivityRun",
+    "title": "Activity Run",
+    "tag": "Activity Run"
+  },
+  {
+    "name": "IconAlarmFill",
+    "title": "Alarm Fill",
+    "tag": "Alarm Fill"
+  },
+  {
+    "name": "IconAlarmOutline",
+    "title": "Alarm Outline",
+    "tag": "Alarm Outline"
+  },
+  {
+    "name": "IconAlarmCheckFill",
+    "title": "Alarm Check Fill",
+    "tag": "Alarm Check Fill"
+  },
+  {
+    "name": "IconAlarmCheckOutline",
+    "title": "Alarm Check Outline",
+    "tag": "Alarm Check Outline"
+  },
+  {
+    "name": "IconAlarmAddFill",
+    "title": "Alarm Add Fill",
+    "tag": "Alarm Add Fill"
+  },
+  {
+    "name": "IconAlarmAddOutline",
+    "title": "Alarm Add Outline",
+    "tag": "Alarm Add Outline"
+  },
+  {
+    "name": "IconAlarmPausedFill",
+    "title": "Alarm Paused Fill",
+    "tag": "Alarm Paused Fill"
+  },
+  {
+    "name": "IconAlarmPausedOutline",
+    "title": "Alarm Paused Outline",
+    "tag": "Alarm Paused Outline"
+  },
+  {
+    "name": "IconAlarmRemoveOutline",
+    "title": "Alarm Remove Outline",
+    "tag": "Alarm Remove Outline"
+  },
+  {
+    "name": "IconAlarmRemoveFill",
+    "title": "Alarm Remove Fill",
+    "tag": "Alarm Remove Fill"
+  },
+  {
+    "name": "IconArtificialIntelligenceAI",
+    "title": "Artificial Intelligence A I",
+    "tag": "ai | AI"
+  },
+  {
+    "name": "IconArrowBackDirectionRight",
+    "title": "Arrow Back Direction Right",
+    "tag": "Arrow Back Direction Right"
+  },
+  {
+    "name": "IconArrowBackDirectionLeft",
+    "title": "Arrow Back Direction Left",
+    "tag": "Arrow Back Direction Left"
   }
 ]
