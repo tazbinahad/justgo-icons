@@ -53,5 +53,50 @@
     "name": "IconArrowPointingDirectionUpLeft",
     "title": "Arrow Pointing Direction Up Left",
     "tag": "Arrow Pointing Direction Up Left"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionUpRight",
+    "title": "Arrow Narrow Pointing Direction Up Right",
+    "tag": "arrow | outward"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionUpLeft",
+    "title": "Arrow Narrow Pointing Direction Up Left",
+    "tag": "Arrow Narrow Pointing Direction Up Left"
+  },
+  {
+    "name": "IconArrowNarrowDirectionUp",
+    "title": "Arrow Narrow Direction Up",
+    "tag": "Arrow Narrow Direction Up"
+  },
+  {
+    "name": "IconArrowNarrowDirectionLeft",
+    "title": "Arrow Narrow Direction Left",
+    "tag": "Arrow Narrow Direction Left"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionDownRight",
+    "title": "Arrow Narrow Pointing Direction Down Right",
+    "tag": "Arrow Narrow Pointing Direction Down Right"
+  },
+  {
+    "name": "IconArrowNarrowPointingDirectionDownLeft",
+    "title": "Arrow Narrow Pointing Direction Down Left",
+    "tag": "Arrow Narrow Pointing Direction Down Left"
+  },
+  {
+    "name": "IconArrowNarrowDirectionDown",
+    "title": "Arrow Narrow Direction Down",
+    "tag": "Arrow Narrow Direction Down"
+  },
+  {
+    "name": "IconArrowNarrowDirectionRight",
+    "title": "Arrow Narrow Direction Right",
+    "tag": "Arrow Narrow Direction Right"
+  },
+  {
+    "name": "IconArrowDoubleHorizontal",
+    "title": "Arrow Double Horizontal",
+    "tag": "Club Transfer"
   }
 ]
