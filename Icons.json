@@ -1,0 +1,37 @@
+[
+  {
+    "name": "IconAttachFile",
+    "title": "Attach File",
+    "tag": "attachment | file | attach file"
+  },
+  {
+    "name": "IconAttachFileAdd",
+    "title": "Attach File Add",
+    "tag": "add | attachment | file add"
+  },
+  {
+    "name": "IconAttachment",
+    "title": "Attachment",
+    "tag": "Attachment"
+  },
+  {
+    "name": "IconArrowDirectionRight",
+    "title": "Arrow Direction Right",
+    "tag": "arrow | right"
+  },
+  {
+    "name": "IconArrowDirectionLeft",
+    "title": "Arrow Direction Left",
+    "tag": "Arrow Direction Left"
+  },
+  {
+    "name": "IconArrowDirectionDown",
+    "title": "Arrow Direction Down",
+    "tag": "Arrow Direction Down"
+  },
+  {
+    "name": "IconArrowDirectionUp",
+    "title": "Arrow Direction Up",
+    "tag": "Arrow Direction Up"
+  }
+]
