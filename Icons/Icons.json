@@ -6358,5 +6358,25 @@
     "name": "IconNotVerifiedFill",
     "title": "Not Verified Fill",
     "tag": "Not Verified Fill"
+  },
+  {
+    "name": "IconUpload",
+    "title": "Upload",
+    "tag": "Upload"
+  },
+  {
+    "name": "IconUploadOff",
+    "title": "Upload Off",
+    "tag": "Upload Off"
+  },
+  {
+    "name": "IconUnderline",
+    "title": "Underline",
+    "tag": "Underline"
+  },
+  {
+    "name": "IconUploadCloud",
+    "title": "Upload Cloud",
+    "tag": "Upload Cloud"
   }
 ]
