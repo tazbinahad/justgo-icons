@@ -4948,5 +4948,60 @@
     "name": "IconPaymentAppleWallet",
     "title": "Payment Apple Wallet",
     "tag": "Payment Apple Wallet"
+  },
+  {
+    "name": "IconQrCodeScan",
+    "title": "Qr Code Scan",
+    "tag": "Qr Code Scan"
+  },
+  {
+    "name": "IconQrCodePlus",
+    "title": "Qr Code Plus",
+    "tag": "Qr Code Plus"
+  },
+  {
+    "name": "IconQrCodeMinus",
+    "title": "Qr Code Minus",
+    "tag": "Qr Code Minus"
+  },
+  {
+    "name": "IconQrCodeEdit",
+    "title": "Qr Code Edit",
+    "tag": "Qr Code Edit"
+  },
+  {
+    "name": "IconQrCode",
+    "title": "Qr Code",
+    "tag": "Qr Code"
+  },
+  {
+    "name": "IconQuoteOpenOutline",
+    "title": "Quote Open Outline",
+    "tag": "Quote Open Outline"
+  },
+  {
+    "name": "IconQuoteOpenFill",
+    "title": "Quote Open Fill",
+    "tag": "Quote Open Fill"
+  },
+  {
+    "name": "IconQuoteCloseOutline",
+    "title": "Quote Close Outline",
+    "tag": "Quote Close Outline"
+  },
+  {
+    "name": "IconQuoteCloseFill",
+    "title": "Quote Close Fill",
+    "tag": "Quote Close Fill"
+  },
+  {
+    "name": "IconQrCodeDownload",
+    "title": "Qr Code Download",
+    "tag": "Qr Code Download"
+  },
+  {
+    "name": "IconQrCodeOff",
+    "title": "Qr Code Off",
+    "tag": "Qr Code Off"
   }
 ]
