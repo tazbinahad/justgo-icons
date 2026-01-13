@@ -6608,5 +6608,15 @@
     "name": "IconWalletFill",
     "title": "Wallet Fill",
     "tag": "balance"
+  },
+  {
+    "name": "IconZoomIn",
+    "title": "Zoom In",
+    "tag": "Zoom In"
+  },
+  {
+    "name": "IconZoomOut",
+    "title": "Zoom Out",
+    "tag": "Zoom Out"
   }
 ]

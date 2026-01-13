@@ -7,7 +7,7 @@ const IconVolumeMedium = (props: IconBaseProps) => {
         viewBox="0 0 24 24"
         width={width}
         height={height}
-        fill="none"
+        fill={fill || "currentColor"}
         xmlns="http://www.w3.org/2000/svg"
         className={className}
       >
@@ -15,11 +15,9 @@ const IconVolumeMedium = (props: IconBaseProps) => {
           fillRule="evenodd"
           clipRule="evenodd"
           d="M16 11.9999C16 10.2299 15 8.7099 13.5 7.9699V15.9999C15 15.2899 16 13.7599 16 11.9999Z"
-          fill="#455A64"
         />
         <path
           d="M3.5 8.9999C2.94772 8.9999 2.5 9.44762 2.5 9.9999V13.9999C2.5 14.5522 2.94772 14.9999 3.5 14.9999H6.5L9.79289 18.2928C10.4229 18.9228 11.5 18.4766 11.5 17.5857V6.41411C11.5 5.52321 10.4229 5.07704 9.79289 5.70701L6.5 8.9999H3.5Z"
-          fill="#455A64"
         />
       </svg>
     );
