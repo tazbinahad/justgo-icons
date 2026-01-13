@@ -3513,5 +3513,115 @@
     "name": "IconFireOutline",
     "title": "Fire Outline",
     "tag": "Fire Outline"
+  },
+  {
+    "name": "IconGridViewOutline",
+    "title": "Grid View Outline",
+    "tag": "Grid View Outline"
+  },
+  {
+    "name": "IconGroupOutline",
+    "title": "Group Outline",
+    "tag": "Group Outline"
+  },
+  {
+    "name": "IconGroupFill",
+    "title": "Group Fill",
+    "tag": "Group Fill"
+  },
+  {
+    "name": "IconGroupSettingsOutline",
+    "title": "Group Settings Outline",
+    "tag": "Group Settings Outline"
+  },
+  {
+    "name": "IconGroupSettingsFill",
+    "title": "Group Settings Fill",
+    "tag": "Group Settings Fill"
+  },
+  {
+    "name": "IconGenderTypeMaleFemale",
+    "title": "Gender Type Male Female",
+    "tag": "Gender Type Male Female"
+  },
+  {
+    "name": "IconGenderTypeMale",
+    "title": "Gender Type Male",
+    "tag": "Gender Type Male"
+  },
+  {
+    "name": "IconGenderTypeTransgender",
+    "title": "Gender Type Transgender",
+    "tag": "Gender Type Transgender"
+  },
+  {
+    "name": "IconGenderTypeFemale",
+    "title": "Gender Type Female",
+    "tag": "Gender Type Female"
+  },
+  {
+    "name": "IconGridFill",
+    "title": "Grid Fill",
+    "tag": "Grid Fill"
+  },
+  {
+    "name": "IconGridOutline",
+    "title": "Grid Outline",
+    "tag": "Grid Outline"
+  },
+  {
+    "name": "IconGalleryThumbnailFill",
+    "title": "Gallery Thumbnail Fill",
+    "tag": "Gallery Thumbnail Fill"
+  },
+  {
+    "name": "IconGalleryThumbnailOutline",
+    "title": "Gallery Thumbnail Outline",
+    "tag": "Gallery Thumbnail Outline"
+  },
+  {
+    "name": "IconGridViewFill",
+    "title": "Grid View Fill",
+    "tag": "Grid View Fill"
+  },
+  {
+    "name": "IconGiftOutline",
+    "title": "Gift Outline",
+    "tag": "Gift Outline"
+  },
+  {
+    "name": "IconGiftFill",
+    "title": "Gift Fill",
+    "tag": "Gift Fill"
+  },
+  {
+    "name": "IconGiftOpenOutline",
+    "title": "Gift Open Outline",
+    "tag": "Gift Open Outline"
+  },
+  {
+    "name": "IconGiftOpenFill",
+    "title": "Gift Open Fill",
+    "tag": "Gift Open Fill"
+  },
+  {
+    "name": "IconGlobeFill",
+    "title": "Globe Fill",
+    "tag": "Globe Fill"
+  },
+  {
+    "name": "IconGlobeOutline",
+    "title": "Globe Outline",
+    "tag": "Globe Outline"
+  },
+  {
+    "name": "IconGroupsWatingListFill",
+    "title": "Groups Wating List Fill",
+    "tag": "Groups Wating List Fill"
+  },
+  {
+    "name": "IconGroupsWatingListOutline",
+    "title": "Groups Wating List Outline",
+    "tag": "Groups Wating List Outline"
   }
 ]
