@@ -5003,5 +5003,195 @@
     "name": "IconQrCodeOff",
     "title": "Qr Code Off",
     "tag": "Qr Code Off"
+  },
+  {
+    "name": "IconRemoveCircleOutline",
+    "title": "Remove Circle Outline",
+    "tag": "Remove Circle Outline"
+  },
+  {
+    "name": "IconRemoveCircleFill",
+    "title": "Remove Circle Fill",
+    "tag": "Remove Circle Fill"
+  },
+  {
+    "name": "IconRefresh02",
+    "title": "Refresh02",
+    "tag": "Refresh02"
+  },
+  {
+    "name": "IconRefresh01",
+    "title": "Refresh01",
+    "tag": "recent"
+  },
+  {
+    "name": "IconRemove",
+    "title": "Remove",
+    "tag": "minus"
+  },
+  {
+    "name": "IconReplyFill",
+    "title": "Reply Fill",
+    "tag": "Reply Fill"
+  },
+  {
+    "name": "IconReplyOutline",
+    "title": "Reply Outline",
+    "tag": "Reply Outline"
+  },
+  {
+    "name": "IconReplyAllFill",
+    "title": "Reply All Fill",
+    "tag": "Reply All Fill"
+  },
+  {
+    "name": "IconReplyAllOutline",
+    "title": "Reply All Outline",
+    "tag": "Reply All Outline"
+  },
+  {
+    "name": "IconReportCahrtBoxPlusOutline",
+    "title": "Report Cahrt Box Plus Outline",
+    "tag": "Report Cahrt Box Plus Outline"
+  },
+  {
+    "name": "IconReportChartBoxOutline",
+    "title": "Report Chart Box Outline",
+    "tag": "Report Chart Box Outline"
+  },
+  {
+    "name": "IconReportChartBoxFill",
+    "title": "Report Chart Box Fill",
+    "tag": "Report Chart Box Fill"
+  },
+  {
+    "name": "IconResizeBottomRight",
+    "title": "Resize Bottom Right",
+    "tag": "Resize Bottom Right"
+  },
+  {
+    "name": "IconReportCahrtBoxPlusFill",
+    "title": "Report Cahrt Box Plus Fill",
+    "tag": "Report Cahrt Box Plus Fill"
+  },
+  {
+    "name": "IconReportChartBoxDownloadOutline",
+    "title": "Report Chart Box Download Outline",
+    "tag": "Report Chart Box Download Outline"
+  },
+  {
+    "name": "IconReportChartBoxDownloadFill",
+    "title": "Report Chart Box Download Fill",
+    "tag": "Report Chart Box Download Fill"
+  },
+  {
+    "name": "IconRoomServiceOutline",
+    "title": "Room Service Outline",
+    "tag": "Room Service Outline"
+  },
+  {
+    "name": "IconRoomServiceFill",
+    "title": "Room Service Fill",
+    "tag": "Room Service Fill"
+  },
+  {
+    "name": "IconRefresh03",
+    "title": "Refresh03",
+    "tag": "switch"
+  },
+  {
+    "name": "IconReservedCheckedOutline",
+    "title": "Reserved Checked Outline",
+    "tag": "Reserved Checked Outline"
+  },
+  {
+    "name": "IconReservedCheckedFill",
+    "title": "Reserved Checked Fill",
+    "tag": "Reserved Checked Fill"
+  },
+  {
+    "name": "IconReservedCloseOutline",
+    "title": "Reserved Close Outline",
+    "tag": "Reserved Close Outline"
+  },
+  {
+    "name": "IconReservedCloseFill",
+    "title": "Reserved Close Fill",
+    "tag": "Reserved Close Fill"
+  },
+  {
+    "name": "IconReservedAddOutline",
+    "title": "Reserved Add Outline",
+    "tag": "Reserved Add Outline"
+  },
+  {
+    "name": "IconReservedAddFill",
+    "title": "Reserved Add Fill",
+    "tag": "Reserved Add Fill"
+  },
+  {
+    "name": "IconReservedRemoveOutline",
+    "title": "Reserved Remove Outline",
+    "tag": "Reserved Remove Outline"
+  },
+  {
+    "name": "IconReservedRemoveFill",
+    "title": "Reserved Remove Fill",
+    "tag": "Reserved Remove Fill"
+  },
+  {
+    "name": "IconRotate90DegreesLeftOutline",
+    "title": "Rotate90 Degrees Left Outline",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRoate90DegreesRightOutline",
+    "title": "Roate90 Degrees Right Outline",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRotate90DegreesLeftFill",
+    "title": "Rotate90 Degrees Left Fill",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRoate90DegreesRightFill",
+    "title": "Roate90 Degrees Right Fill",
+    "tag": "image | rotate"
+  },
+  {
+    "name": "IconRowOutline",
+    "title": "Row Outline",
+    "tag": "Row Outline"
+  },
+  {
+    "name": "IconRowFill",
+    "title": "Row Fill",
+    "tag": "Row Fill"
+  },
+  {
+    "name": "IconReset",
+    "title": "Reset",
+    "tag": "reset filter"
+  },
+  {
+    "name": "IconRewardedOutline",
+    "title": "Rewarded Outline",
+    "tag": "Rewarded Outline"
+  },
+  {
+    "name": "IconRewardedFill",
+    "title": "Rewarded Fill",
+    "tag": "Rewarded Fill"
+  },
+  {
+    "name": "IconRulerFill",
+    "title": "Ruler Fill",
+    "tag": "ruler | measurement | scale | length | straight edge | measuring tool"
+  },
+  {
+    "name": "IconRulerOutline",
+    "title": "Ruler Outline",
+    "tag": "ruler | measurement | scale | length | straight edge | measuring tool"
   }
 ]
