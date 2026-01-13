@@ -4183,5 +4183,130 @@
     "name": "IconLightBulbOffFill",
     "title": "Light Bulb Off Fill",
     "tag": "Light Bulb Off Fill"
+  },
+  {
+    "name": "IconMapOutline",
+    "title": "Map Outline",
+    "tag": "Map Outline"
+  },
+  {
+    "name": "IconMapFill",
+    "title": "Map Fill",
+    "tag": "Map Fill"
+  },
+  {
+    "name": "IconMobileOutline",
+    "title": "Mobile Outline",
+    "tag": "Mobile Outline"
+  },
+  {
+    "name": "IconMenu",
+    "title": "Menu",
+    "tag": "Menu"
+  },
+  {
+    "name": "IconMenuPositionRight",
+    "title": "Menu Position Right",
+    "tag": "expand | more | arrow right | arrow | down | caret right"
+  },
+  {
+    "name": "IconMenuPositionUp",
+    "title": "Menu Position Up",
+    "tag": "expand | more | arrow up | arrow | down | caret top"
+  },
+  {
+    "name": "IconMenuPositionLeft",
+    "title": "Menu Position Left",
+    "tag": "expand | more | arrow left | arrow | down | caret left"
+  },
+  {
+    "name": "IconMenuPositionDown",
+    "title": "Menu Position Down",
+    "tag": "expand | more | arrow down | arrow | down | caret down"
+  },
+  {
+    "name": "IconMinusCircleOutline",
+    "title": "Minus Circle Outline",
+    "tag": "Minus Circle Outline"
+  },
+  {
+    "name": "IconMinusCircleFill",
+    "title": "Minus Circle Fill",
+    "tag": "Minus Circle Fill"
+  },
+  {
+    "name": "IconMan",
+    "title": "Man",
+    "tag": "Man"
+  },
+  {
+    "name": "IconMusic",
+    "title": "Music",
+    "tag": "Music"
+  },
+  {
+    "name": "IconMusicOff",
+    "title": "Music Off",
+    "tag": "Music Off"
+  },
+  {
+    "name": "IconMountainHutFill",
+    "title": "Mountain Hut Fill",
+    "tag": "Mountain Hut Fill"
+  },
+  {
+    "name": "IconMountainHutOutline",
+    "title": "Mountain Hut Outline",
+    "tag": "Mountain Hut Outline"
+  },
+  {
+    "name": "IconMeetingRoomFill",
+    "title": "Meeting Room Fill",
+    "tag": "Room | Meeting | office"
+  },
+  {
+    "name": "IconMeetingRoomOutline",
+    "title": "Meeting Room Outline",
+    "tag": "Room | Meeting | office"
+  },
+  {
+    "name": "IconMoonFill",
+    "title": "Moon Fill",
+    "tag": "dark mode"
+  },
+  {
+    "name": "IconMoonOutline",
+    "title": "Moon Outline",
+    "tag": "dark mode"
+  },
+  {
+    "name": "IconMinimize",
+    "title": "Minimize",
+    "tag": "Minimize"
+  },
+  {
+    "name": "IconMedicalServiceFill",
+    "title": "Medical Service Fill",
+    "tag": "emergency\nmedical"
+  },
+  {
+    "name": "IconMedicalServiceOutline",
+    "title": "Medical Service Outline",
+    "tag": "emergency\nmedical"
+  },
+  {
+    "name": "IconMovingDirectionDecrease",
+    "title": "Moving Direction Decrease",
+    "tag": "Moving Direction Decrease"
+  },
+  {
+    "name": "IconMovingDirectionIncrease",
+    "title": "Moving Direction Increase",
+    "tag": "Moving Direction Increase"
+  },
+  {
+    "name": "IconMobileFill",
+    "title": "Mobile Fill",
+    "tag": "Mobile Fill"
   }
 ]
