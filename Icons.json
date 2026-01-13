@@ -2268,5 +2268,1250 @@
     "name": "IconEmailFill",
     "title": "Email Fill",
     "tag": "Email Fill"
+  },
+  {
+    "name": "IconFlagOutline",
+    "title": "Flag Outline",
+    "tag": "Flag Outline"
+  },
+  {
+    "name": "IconFilterRemoveOutline",
+    "title": "Filter Remove Outline",
+    "tag": "Filter Remove Outline"
+  },
+  {
+    "name": "IconFilterRemoveFill",
+    "title": "Filter Remove Fill",
+    "tag": "Filter Remove Fill"
+  },
+  {
+    "name": "IconFilterPlusOutline",
+    "title": "Filter Plus Outline",
+    "tag": "Filter Plus Outline"
+  },
+  {
+    "name": "IconFilterPlusFill",
+    "title": "Filter Plus Fill",
+    "tag": "Filter Plus Fill"
+  },
+  {
+    "name": "IconFilterOutline",
+    "title": "Filter Outline",
+    "tag": "Filter Outline"
+  },
+  {
+    "name": "IconFilterOffOutline",
+    "title": "Filter Off Outline",
+    "tag": "Filter Off Outline"
+  },
+  {
+    "name": "IconFilterOffFill",
+    "title": "Filter Off Fill",
+    "tag": "Filter Off Fill"
+  },
+  {
+    "name": "IconFilterMinusOutline",
+    "title": "Filter Minus Outline",
+    "tag": "Filter Minus Outline"
+  },
+  {
+    "name": "IconFilterMinusFill",
+    "title": "Filter Minus Fill",
+    "tag": "Filter Minus Fill"
+  },
+  {
+    "name": "IconFilterCheckFill",
+    "title": "Filter Check Fill",
+    "tag": "Filter Check Fill"
+  },
+  {
+    "name": "IconFilterMenuOutline",
+    "title": "Filter Menu Outline",
+    "tag": "Filter Menu Outline"
+  },
+  {
+    "name": "IconFilterSettingsOutline",
+    "title": "Filter Settings Outline",
+    "tag": "Filter Settings Outline"
+  },
+  {
+    "name": "IconFilterMenuFill",
+    "title": "Filter Menu Fill",
+    "tag": "Filter Menu Fill"
+  },
+  {
+    "name": "IconFilterSettingsFill",
+    "title": "Filter Settings Fill",
+    "tag": "Filter Settings Fill"
+  },
+  {
+    "name": "IconFilterCheckOutline",
+    "title": "Filter Check Outline",
+    "tag": "Filter Check Outline"
+  },
+  {
+    "name": "IconFilterFill",
+    "title": "Filter Fill",
+    "tag": "Filter Fill"
+  },
+  {
+    "name": "IconFolderOutline",
+    "title": "Folder Outline",
+    "tag": "Folder Outline"
+  },
+  {
+    "name": "IconFolderCogOutline",
+    "title": "Folder Cog Outline",
+    "tag": "Folder Cog Outline"
+  },
+  {
+    "name": "IconFolderCogFill",
+    "title": "Folder Cog Fill",
+    "tag": "Folder Cog Fill"
+  },
+  {
+    "name": "IconFolderArrowUpOutline",
+    "title": "Folder Arrow Up Outline",
+    "tag": "Folder Arrow Up Outline"
+  },
+  {
+    "name": "IconFolderArrowUpDownFill",
+    "title": "Folder Arrow Up Down Fill",
+    "tag": "Folder Arrow Up Down Fill"
+  },
+  {
+    "name": "IconFolderArrowUpFill",
+    "title": "Folder Arrow Up Fill",
+    "tag": "Folder Arrow Up Fill"
+  },
+  {
+    "name": "IconFolderArrowDownOutline",
+    "title": "Folder Arrow Down Outline",
+    "tag": "Folder Arrow Down Outline"
+  },
+  {
+    "name": "IconFolderArrowDownFill",
+    "title": "Folder Arrow Down Fill",
+    "tag": "Folder Arrow Down Fill"
+  },
+  {
+    "name": "IconFolderArrowUpDownOutline",
+    "title": "Folder Arrow Up Down Outline",
+    "tag": "Folder Arrow Up Down Outline"
+  },
+  {
+    "name": "IconFolderStarOutline",
+    "title": "Folder Star Outline",
+    "tag": "Folder Star Outline"
+  },
+  {
+    "name": "IconFolderAlertOutline",
+    "title": "Folder Alert Outline",
+    "tag": "Folder Alert Outline"
+  },
+  {
+    "name": "IconFolderStarFill",
+    "title": "Folder Star Fill",
+    "tag": "Folder Star Fill"
+  },
+  {
+    "name": "IconFolderAlertFill",
+    "title": "Folder Alert Fill",
+    "tag": "Folder Alert Fill"
+  },
+  {
+    "name": "IconFolderAccountOutline",
+    "title": "Folder Account Outline",
+    "tag": "Folder Account Outline"
+  },
+  {
+    "name": "IconFolderPlusOutline",
+    "title": "Folder Plus Outline",
+    "tag": "Folder Plus Outline"
+  },
+  {
+    "name": "IconFolderPlayOutline",
+    "title": "Folder Play Outline",
+    "tag": "Folder Play Outline"
+  },
+  {
+    "name": "IconFolderPlusFill",
+    "title": "Folder Plus Fill",
+    "tag": "Folder Plus Fill"
+  },
+  {
+    "name": "IconFolderAccountFill",
+    "title": "Folder Account Fill",
+    "tag": "Folder Account Fill"
+  },
+  {
+    "name": "IconFolderPlayFill",
+    "title": "Folder Play Fill",
+    "tag": "Folder Play Fill"
+  },
+  {
+    "name": "IconFolderFill",
+    "title": "Folder Fill",
+    "tag": "Folder Fill"
+  },
+  {
+    "name": "IconFlagFill",
+    "title": "Flag Fill",
+    "tag": "Flag Fill"
+  },
+  {
+    "name": "IconFilterArrowFill",
+    "title": "Filter Arrow Fill",
+    "tag": "Filter Arrow Fill"
+  },
+  {
+    "name": "IconFilterArrowOutline",
+    "title": "Filter Arrow Outline",
+    "tag": "Filter Arrow Outline"
+  },
+  {
+    "name": "IconFilterMenuSidebarFill",
+    "title": "Filter Menu Sidebar Fill",
+    "tag": "Filter Menu Sidebar Fill"
+  },
+  {
+    "name": "IconFilterMenuSidebarOutline",
+    "title": "Filter Menu Sidebar Outline",
+    "tag": "Filter Menu Sidebar Outline"
+  },
+  {
+    "name": "IconFolderClockOutline",
+    "title": "Folder Clock Outline",
+    "tag": "Folder Clock Outline"
+  },
+  {
+    "name": "IconFolderClockFill",
+    "title": "Folder Clock Fill",
+    "tag": "Folder Clock Fill"
+  },
+  {
+    "name": "IconFolderCheckOutline",
+    "title": "Folder Check Outline",
+    "tag": "Folder Check Outline"
+  },
+  {
+    "name": "IconFolderCheckFill",
+    "title": "Folder Check Fill",
+    "tag": "Folder Check Fill"
+  },
+  {
+    "name": "IconFolderCancelOutline",
+    "title": "Folder Cancel Outline",
+    "tag": "Folder Cancel Outline"
+  },
+  {
+    "name": "IconFolderCancelFill",
+    "title": "Folder Cancel Fill",
+    "tag": "Folder Cancel Fill"
+  },
+  {
+    "name": "IconFolderArrowRightOutline",
+    "title": "Folder Arrow Right Outline",
+    "tag": "Folder Arrow Right Outline"
+  },
+  {
+    "name": "IconFolderArrowRightFill",
+    "title": "Folder Arrow Right Fill",
+    "tag": "Folder Arrow Right Fill"
+  },
+  {
+    "name": "IconFolderArrowLeftRightOutline",
+    "title": "Folder Arrow Left Right Outline",
+    "tag": "Folder Arrow Left Right Outline"
+  },
+  {
+    "name": "IconFolderArrowLeftRightFill",
+    "title": "Folder Arrow Left Right Fill",
+    "tag": "Folder Arrow Left Right Fill"
+  },
+  {
+    "name": "IconFolderArrowLeftOutline",
+    "title": "Folder Arrow Left Outline",
+    "tag": "Folder Arrow Left Outline"
+  },
+  {
+    "name": "IconFolderArrowLeftFill",
+    "title": "Folder Arrow Left Fill",
+    "tag": "Folder Arrow Left Fill"
+  },
+  {
+    "name": "IconFolderZipFill",
+    "title": "Folder Zip Fill",
+    "tag": "Folder Zip Fill"
+  },
+  {
+    "name": "IconFolderWrenchOutline",
+    "title": "Folder Wrench Outline",
+    "tag": "Folder Wrench Outline"
+  },
+  {
+    "name": "IconFolderWrenchFill",
+    "title": "Folder Wrench Fill",
+    "tag": "Folder Wrench Fill"
+  },
+  {
+    "name": "IconFolderSwapOutline",
+    "title": "Folder Swap Outline",
+    "tag": "Folder Swap Outline"
+  },
+  {
+    "name": "IconFolderSwapFill",
+    "title": "Folder Swap Fill",
+    "tag": "Folder Swap Fill"
+  },
+  {
+    "name": "IconFolderStarMultipleFill",
+    "title": "Folder Star Multiple Fill",
+    "tag": "Folder Star Multiple Fill"
+  },
+  {
+    "name": "IconFolderStarMultipleOutline",
+    "title": "Folder Star Multiple Outline",
+    "tag": "Folder Star Multiple Outline"
+  },
+  {
+    "name": "IconFolderQuestionOutline",
+    "title": "Folder Question Outline",
+    "tag": "Folder Question Outline"
+  },
+  {
+    "name": "IconFolderQuestionFill",
+    "title": "Folder Question Fill",
+    "tag": "Folder Question Fill"
+  },
+  {
+    "name": "IconFolderPoundOutline",
+    "title": "Folder Pound Outline",
+    "tag": "Folder Pound Outline"
+  },
+  {
+    "name": "IconFolderPoundFill",
+    "title": "Folder Pound Fill",
+    "tag": "Folder Pound Fill"
+  },
+  {
+    "name": "IconFolderMultipleOutline",
+    "title": "Folder Multiple Outline",
+    "tag": "Folder Multiple Outline"
+  },
+  {
+    "name": "IconFolderMultipleFill",
+    "title": "Folder Multiple Fill",
+    "tag": "Folder Multiple Fill"
+  },
+  {
+    "name": "IconFolderMarkerOutline",
+    "title": "Folder Marker Outline",
+    "tag": "Folder Marker Outline"
+  },
+  {
+    "name": "IconFolderMarkerFill",
+    "title": "Folder Marker Fill",
+    "tag": "Folder Marker Fill"
+  },
+  {
+    "name": "IconFolderHomeOutline",
+    "title": "Folder Home Outline",
+    "tag": "Folder Home Outline"
+  },
+  {
+    "name": "IconFolderHomeFill",
+    "title": "Folder Home Fill",
+    "tag": "Folder Home Fill"
+  },
+  {
+    "name": "IconFolderZipOutline",
+    "title": "Folder Zip Outline",
+    "tag": "Folder Zip Outline"
+  },
+  {
+    "name": "IconFolderUploadOutline",
+    "title": "Folder Upload Outline",
+    "tag": "Folder Upload Outline"
+  },
+  {
+    "name": "IconFolderUploadFill",
+    "title": "Folder Upload Fill",
+    "tag": "Folder Upload Fill"
+  },
+  {
+    "name": "IconFolderTextOutline",
+    "title": "Folder Text Outline",
+    "tag": "Folder Text Outline"
+  },
+  {
+    "name": "IconFolderTextFill",
+    "title": "Folder Text Fill",
+    "tag": "Folder Text Fill"
+  },
+  {
+    "name": "IconFolderTableOutline",
+    "title": "Folder Table Outline",
+    "tag": "Folder Table Outline"
+  },
+  {
+    "name": "IconFolderTableFill",
+    "title": "Folder Table Fill",
+    "tag": "Folder Table Fill"
+  },
+  {
+    "name": "IconFolderSyncOutline",
+    "title": "Folder Sync Outline",
+    "tag": "Folder Sync Outline"
+  },
+  {
+    "name": "IconFolderSettingsFill",
+    "title": "Folder Settings Fill",
+    "tag": "Folder Settings Fill"
+  },
+  {
+    "name": "IconFolderSearchOutline",
+    "title": "Folder Search Outline",
+    "tag": "Folder Search Outline"
+  },
+  {
+    "name": "IconFolderSearchFill",
+    "title": "Folder Search Fill",
+    "tag": "Folder Search Fill"
+  },
+  {
+    "name": "IconFolderRemoveOutline",
+    "title": "Folder Remove Outline",
+    "tag": "Folder Remove Outline"
+  },
+  {
+    "name": "IconFolderRemoveFill",
+    "title": "Folder Remove Fill",
+    "tag": "Folder Remove Fill"
+  },
+  {
+    "name": "IconFolderRefreshOutline",
+    "title": "Folder Refresh Outline",
+    "tag": "Folder Refresh Outline"
+  },
+  {
+    "name": "IconFolderRefreshFill",
+    "title": "Folder Refresh Fill",
+    "tag": "Folder Refresh Fill"
+  },
+  {
+    "name": "IconFolderOpenOutline",
+    "title": "Folder Open Outline",
+    "tag": "Folder Open Outline"
+  },
+  {
+    "name": "IconFolderOpenFill",
+    "title": "Folder Open Fill",
+    "tag": "Folder Open Fill"
+  },
+  {
+    "name": "IconFolderOffOutline",
+    "title": "Folder Off Outline",
+    "tag": "Folder Off Outline"
+  },
+  {
+    "name": "IconFolderOffFill",
+    "title": "Folder Off Fill",
+    "tag": "Folder Off Fill"
+  },
+  {
+    "name": "IconFolderNetworkOutline",
+    "title": "Folder Network Outline",
+    "tag": "Folder Network Outline"
+  },
+  {
+    "name": "IconFolderNetworkFill",
+    "title": "Folder Network Fill",
+    "tag": "Folder Network Fill"
+  },
+  {
+    "name": "IconFolderMusicOutline",
+    "title": "Folder Music Outline",
+    "tag": "Folder Music Outline"
+  },
+  {
+    "name": "IconFolderMusicFill",
+    "title": "Folder Music Fill",
+    "tag": "Folder Music Fill"
+  },
+  {
+    "name": "IconFolderMultiplePlusOutline",
+    "title": "Folder Multiple Plus Outline",
+    "tag": "Folder Multiple Plus Outline"
+  },
+  {
+    "name": "IconFolderMultiplePlusFill",
+    "title": "Folder Multiple Plus Fill",
+    "tag": "Folder Multiple Plus Fill"
+  },
+  {
+    "name": "IconFolderMoveOutline",
+    "title": "Folder Move Outline",
+    "tag": "Folder Move Outline"
+  },
+  {
+    "name": "IconFolderMoveFill",
+    "title": "Folder Move Fill",
+    "tag": "Folder Move Fill"
+  },
+  {
+    "name": "IconFolderMinusOutline",
+    "title": "Folder Minus Outline",
+    "tag": "Folder Minus Outline"
+  },
+  {
+    "name": "IconFolderMinusFill",
+    "title": "Folder Minus Fill",
+    "tag": "Folder Minus Fill"
+  },
+  {
+    "name": "IconFolderLockOutline",
+    "title": "Folder Lock Outline",
+    "tag": "Folder Lock Outline"
+  },
+  {
+    "name": "IconFolderLockOpenOutline",
+    "title": "Folder Lock Open Outline",
+    "tag": "Folder Lock Open Outline"
+  },
+  {
+    "name": "IconFolderLockOpenFill",
+    "title": "Folder Lock Open Fill",
+    "tag": "Folder Lock Open Fill"
+  },
+  {
+    "name": "IconFolderLockFill",
+    "title": "Folder Lock Fill",
+    "tag": "Folder Lock Fill"
+  },
+  {
+    "name": "IconFolderKeyOutline",
+    "title": "Folder Key Outline",
+    "tag": "Folder Key Outline"
+  },
+  {
+    "name": "IconFolderKeyNetworkOutline",
+    "title": "Folder Key Network Outline",
+    "tag": "Folder Key Network Outline"
+  },
+  {
+    "name": "IconFolderKeyNetworkFill",
+    "title": "Folder Key Network Fill",
+    "tag": "Folder Key Network Fill"
+  },
+  {
+    "name": "IconFolderKeyFill",
+    "title": "Folder Key Fill",
+    "tag": "Folder Key Fill"
+  },
+  {
+    "name": "IconFolderInformationOutline",
+    "title": "Folder Information Outline",
+    "tag": "Folder Information Outline"
+  },
+  {
+    "name": "IconFolderInformationFill",
+    "title": "Folder Information Fill",
+    "tag": "Folder Information Fill"
+  },
+  {
+    "name": "IconFolderHeartOutline",
+    "title": "Folder Heart Outline",
+    "tag": "Folder Heart Outline"
+  },
+  {
+    "name": "IconFolderHeartFill",
+    "title": "Folder Heart Fill",
+    "tag": "Folder Heart Fill"
+  },
+  {
+    "name": "IconFolderFileOutline",
+    "title": "Folder File Outline",
+    "tag": "Folder File Outline"
+  },
+  {
+    "name": "IconFolderFileFill",
+    "title": "Folder File Fill",
+    "tag": "Folder File Fill"
+  },
+  {
+    "name": "IconFolderEyeOutline",
+    "title": "Folder Eye Outline",
+    "tag": "Folder Eye Outline"
+  },
+  {
+    "name": "IconFolderEyeFill",
+    "title": "Folder Eye Fill",
+    "tag": "Folder Eye Fill"
+  },
+  {
+    "name": "IconFolderEditOutline",
+    "title": "Folder Edit Outline",
+    "tag": "Folder Edit Outline"
+  },
+  {
+    "name": "IconFolderEditFill",
+    "title": "Folder Edit Fill",
+    "tag": "Folder Edit Fill"
+  },
+  {
+    "name": "IconFolderDownloadOutline",
+    "title": "Folder Download Outline",
+    "tag": "Folder Download Outline"
+  },
+  {
+    "name": "IconFolderDownloadFill",
+    "title": "Folder Download Fill",
+    "tag": "Folder Download Fill"
+  },
+  {
+    "name": "IconFolderSyncFill",
+    "title": "Folder Sync Fill",
+    "tag": "Folder Sync Fill"
+  },
+  {
+    "name": "IconFolderSettingsOutline",
+    "title": "Folder Settings Outline",
+    "tag": "Folder Settings Outline"
+  },
+  {
+    "name": "IconFolderAdd",
+    "title": "Folder Add",
+    "tag": "Folder Add"
+  },
+  {
+    "name": "IconFolder",
+    "title": "Folder",
+    "tag": "Folder"
+  },
+  {
+    "name": "IconFolderUpload",
+    "title": "Folder Upload",
+    "tag": "Folder Upload"
+  },
+  {
+    "name": "IconFolderOpen",
+    "title": "Folder Open",
+    "tag": "Folder Open"
+  },
+  {
+    "name": "IconFileCloud",
+    "title": "File Cloud",
+    "tag": "File Cloud"
+  },
+  {
+    "name": "IconFileSearch",
+    "title": "File Search",
+    "tag": "File Search"
+  },
+  {
+    "name": "IconFileImageMarker",
+    "title": "File Image Marker",
+    "tag": "File Image Marker"
+  },
+  {
+    "name": "IconFileImagePlus",
+    "title": "File Image Plus",
+    "tag": "File Image Plus"
+  },
+  {
+    "name": "IconFileImage",
+    "title": "File Image",
+    "tag": "File Image"
+  },
+  {
+    "name": "IconFileImageMinus",
+    "title": "File Image Minus",
+    "tag": "File Image Minus"
+  },
+  {
+    "name": "IconFileImageRemove",
+    "title": "File Image Remove",
+    "tag": "File Image Remove"
+  },
+  {
+    "name": "IconFileTypeImage",
+    "title": "File Type Image",
+    "tag": "File Type Image"
+  },
+  {
+    "name": "IconFileTypeLog",
+    "title": "File Type Log",
+    "tag": "File Type Log"
+  },
+  {
+    "name": "IconFileTypeVideoFile",
+    "title": "File Type Video File",
+    "tag": "File Type Video File"
+  },
+  {
+    "name": "IconFileTypePng",
+    "title": "File Type Png",
+    "tag": "File Type Png"
+  },
+  {
+    "name": "IconFileTypeGifFile",
+    "title": "File Type Gif File",
+    "tag": "File Type Gif File"
+  },
+  {
+    "name": "IconFileTypeJpg",
+    "title": "File Type Jpg",
+    "tag": "File Type Jpg"
+  },
+  {
+    "name": "IconFileTypeDoc",
+    "title": "File Type Doc",
+    "tag": "File Type Doc"
+  },
+  {
+    "name": "IconFileTypeTxt",
+    "title": "File Type Txt",
+    "tag": "File Type Txt"
+  },
+  {
+    "name": "IconFileTypePdf",
+    "title": "File Type Pdf",
+    "tag": "File Type Pdf"
+  },
+  {
+    "name": "IconFileTypePpt",
+    "title": "File Type Ppt",
+    "tag": "File Type Ppt"
+  },
+  {
+    "name": "IconFileTypeZip",
+    "title": "File Type Zip",
+    "tag": "File Type Zip"
+  },
+  {
+    "name": "IconFileTypeAi",
+    "title": "File Type Ai",
+    "tag": "File Type Ai"
+  },
+  {
+    "name": "IconFileTypeCsv",
+    "title": "File Type Csv",
+    "tag": "File Type Csv"
+  },
+  {
+    "name": "IconFileTypeSvg",
+    "title": "File Type Svg",
+    "tag": "File Type Svg"
+  },
+  {
+    "name": "IconFileTypeXls",
+    "title": "File Type Xls",
+    "tag": "File Type Xls"
+  },
+  {
+    "name": "IconFileTypeDocument",
+    "title": "File Type Document",
+    "tag": "File Type Document"
+  },
+  {
+    "name": "IconFileReport",
+    "title": "File Report",
+    "tag": "File Report"
+  },
+  {
+    "name": "IconFileReportEdit",
+    "title": "File Report Edit",
+    "tag": "File Report Edit"
+  },
+  {
+    "name": "IconFileReportAdd",
+    "title": "File Report Add",
+    "tag": "File Report Add"
+  },
+  {
+    "name": "IconFileReportDownload",
+    "title": "File Report Download",
+    "tag": "File Report Download"
+  },
+  {
+    "name": "IconFullScreen",
+    "title": "Full Screen",
+    "tag": "Full Screen"
+  },
+  {
+    "name": "IconFolderAddOutline",
+    "title": "Folder Add Outline",
+    "tag": "Folder Add Outline"
+  },
+  {
+    "name": "IconFolderAddFill",
+    "title": "Folder Add Fill",
+    "tag": "Folder Add Fill"
+  },
+  {
+    "name": "IconFileCloudFill",
+    "title": "File Cloud Fill",
+    "tag": "File Cloud Fill"
+  },
+  {
+    "name": "IconFileCloudOutline",
+    "title": "File Cloud Outline",
+    "tag": "File Cloud Outline"
+  },
+  {
+    "name": "IconFileImageRemoveOutline",
+    "title": "File Image Remove Outline",
+    "tag": "File Image Remove Outline"
+  },
+  {
+    "name": "IconFileImageRemoveFill",
+    "title": "File Image Remove Fill",
+    "tag": "File Image Remove Fill"
+  },
+  {
+    "name": "IconFileImageOutline",
+    "title": "File Image Outline",
+    "tag": "File Image Outline"
+  },
+  {
+    "name": "IconFileImageMinusOutline",
+    "title": "File Image Minus Outline",
+    "tag": "File Image Minus Outline"
+  },
+  {
+    "name": "IconFileImageMinusFill",
+    "title": "File Image Minus Fill",
+    "tag": "File Image Minus Fill"
+  },
+  {
+    "name": "IconFileImageFill",
+    "title": "File Image Fill",
+    "tag": "File Image Fill"
+  },
+  {
+    "name": "IconFileImagePlusOutline",
+    "title": "File Image Plus Outline",
+    "tag": "File Image Plus Outline"
+  },
+  {
+    "name": "IconFileImagePlusFill",
+    "title": "File Image Plus Fill",
+    "tag": "File Image Plus Fill"
+  },
+  {
+    "name": "IconFileImageMarkerOutline",
+    "title": "File Image Marker Outline",
+    "tag": "File Image Marker Outline"
+  },
+  {
+    "name": "IconFileImageMarkerFill",
+    "title": "File Image Marker Fill",
+    "tag": "File Image Marker Fill"
+  },
+  {
+    "name": "IconFileSearchFill",
+    "title": "File Search Fill",
+    "tag": "File Search Fill"
+  },
+  {
+    "name": "IconFileSearchOutline",
+    "title": "File Search Outline",
+    "tag": "File Search Outline"
+  },
+  {
+    "name": "IconFileTypeVideoFileOutline",
+    "title": "File Type Video File Outline",
+    "tag": "File Type Video File Outline"
+  },
+  {
+    "name": "IconFileTypePdfOutline",
+    "title": "File Type Pdf Outline",
+    "tag": "File Type Pdf Outline"
+  },
+  {
+    "name": "IconFileTypeTxtOutline",
+    "title": "File Type Txt Outline",
+    "tag": "File Type Txt Outline"
+  },
+  {
+    "name": "IconFileTypeDocOutline",
+    "title": "File Type Doc Outline",
+    "tag": "File Type Doc Outline"
+  },
+  {
+    "name": "IconFileTypeJpgOutline",
+    "title": "File Type Jpg Outline",
+    "tag": "File Type Jpg Outline"
+  },
+  {
+    "name": "IconFileTypePngOutline",
+    "title": "File Type Png Outline",
+    "tag": "File Type Png Outline"
+  },
+  {
+    "name": "IconFileTypeLogOutline",
+    "title": "File Type Log Outline",
+    "tag": "File Type Log Outline"
+  },
+  {
+    "name": "IconFileTypeZipOutline",
+    "title": "File Type Zip Outline",
+    "tag": "File Type Zip Outline"
+  },
+  {
+    "name": "IconFileTypeGifFileOutline",
+    "title": "File Type Gif File Outline",
+    "tag": "File Type Gif File Outline"
+  },
+  {
+    "name": "IconFileTypePptOutline",
+    "title": "File Type Ppt Outline",
+    "tag": "File Type Ppt Outline"
+  },
+  {
+    "name": "IconFileTypeDocumentOutline",
+    "title": "File Type Document Outline",
+    "tag": "File Type Document Outline"
+  },
+  {
+    "name": "IconFileTypeImageOutline",
+    "title": "File Type Image Outline",
+    "tag": "File Type Image Outline"
+  },
+  {
+    "name": "IconFileTypePptFill",
+    "title": "File Type Ppt Fill",
+    "tag": "File Type Ppt Fill"
+  },
+  {
+    "name": "IconFileTypeDocumentFill",
+    "title": "File Type Document Fill",
+    "tag": "File Type Document Fill"
+  },
+  {
+    "name": "IconFileTypeGifFileFill",
+    "title": "File Type Gif File Fill",
+    "tag": "File Type Gif File Fill"
+  },
+  {
+    "name": "IconFileTypePdfFill",
+    "title": "File Type Pdf Fill",
+    "tag": "File Type Pdf Fill"
+  },
+  {
+    "name": "IconFileTypeTxtFill",
+    "title": "File Type Txt Fill",
+    "tag": "File Type Txt Fill"
+  },
+  {
+    "name": "IconFileTypeJpgFill",
+    "title": "File Type Jpg Fill",
+    "tag": "File Type Jpg Fill"
+  },
+  {
+    "name": "IconFileTypeVideoFileFill",
+    "title": "File Type Video File Fill",
+    "tag": "File Type Video File Fill"
+  },
+  {
+    "name": "IconFileTypeZipFill",
+    "title": "File Type Zip Fill",
+    "tag": "File Type Zip Fill"
+  },
+  {
+    "name": "IconFileTypeImageFill",
+    "title": "File Type Image Fill",
+    "tag": "File Type Image Fill"
+  },
+  {
+    "name": "IconFileTypeLogFill",
+    "title": "File Type Log Fill",
+    "tag": "File Type Log Fill"
+  },
+  {
+    "name": "IconFileTypeDocFill",
+    "title": "File Type Doc Fill",
+    "tag": "File Type Doc Fill"
+  },
+  {
+    "name": "IconFileTypePngFill",
+    "title": "File Type Png Fill",
+    "tag": "File Type Png Fill"
+  },
+  {
+    "name": "IconFileTypeAiOutline",
+    "title": "File Type Ai Outline",
+    "tag": "File Type Ai Outline"
+  },
+  {
+    "name": "IconFileTypeAiFill",
+    "title": "File Type Ai Fill",
+    "tag": "File Type Ai Fill"
+  },
+  {
+    "name": "IconFileReportOutline",
+    "title": "File Report Outline",
+    "tag": "File Report Outline"
+  },
+  {
+    "name": "IconFileReportFill",
+    "title": "File Report Fill",
+    "tag": "File Report Fill"
+  },
+  {
+    "name": "IconFileReportAddFill",
+    "title": "File Report Add Fill",
+    "tag": "File Report Add Fill"
+  },
+  {
+    "name": "IconFileReportAddOutline",
+    "title": "File Report Add Outline",
+    "tag": "File Report Add Outline"
+  },
+  {
+    "name": "IconFileTypeCsvOutline",
+    "title": "File Type Csv Outline",
+    "tag": "File Type Csv Outline"
+  },
+  {
+    "name": "IconFileTypeSvgFill",
+    "title": "File Type Svg Fill",
+    "tag": "File Type Svg Fill"
+  },
+  {
+    "name": "IconFileTypeCsvFill",
+    "title": "File Type Csv Fill",
+    "tag": "File Type Csv Fill"
+  },
+  {
+    "name": "IconFileTypeXlsFill",
+    "title": "File Type Xls Fill",
+    "tag": "File Type Xls Fill"
+  },
+  {
+    "name": "IconFileTypeSvgOutline",
+    "title": "File Type Svg Outline",
+    "tag": "File Type Svg Outline"
+  },
+  {
+    "name": "IconFileTypeXlsOutline",
+    "title": "File Type Xls Outline",
+    "tag": "File Type Xls Outline"
+  },
+  {
+    "name": "IconFileReportEditOutline",
+    "title": "File Report Edit Outline",
+    "tag": "File Report Edit Outline"
+  },
+  {
+    "name": "IconFileReportEditFill",
+    "title": "File Report Edit Fill",
+    "tag": "File Report Edit Fill"
+  },
+  {
+    "name": "IconFullScreenTypeMinimise",
+    "title": "Full Screen Type Minimise",
+    "tag": "Full Screen Type Minimise"
+  },
+  {
+    "name": "IconFullScreenTypeMaximise",
+    "title": "Full Screen Type Maximise",
+    "tag": "Full Screen Type Maximise"
+  },
+  {
+    "name": "IconFileReportDownloadOutline",
+    "title": "File Report Download Outline",
+    "tag": "File Report Download Outline"
+  },
+  {
+    "name": "IconFileReportDownloadFill",
+    "title": "File Report Download Fill",
+    "tag": "File Report Download Fill"
+  },
+  {
+    "name": "IconFitnessDumbleFill",
+    "title": "Fitness Dumble Fill",
+    "tag": "Fitness Dumble Fill"
+  },
+  {
+    "name": "IconFitnessDumbleOutline",
+    "title": "Fitness Dumble Outline",
+    "tag": "Fitness Dumble Outline"
+  },
+  {
+    "name": "IconFitnessHeartBitFill",
+    "title": "Fitness Heart Bit Fill",
+    "tag": "Fitness Heart Bit Fill"
+  },
+  {
+    "name": "IconFitnessHeartBitOutline",
+    "title": "Fitness Heart Bit Outline",
+    "tag": "Fitness Heart Bit Outline"
+  },
+  {
+    "name": "IconFoodOutline",
+    "title": "Food Outline",
+    "tag": "Food Outline"
+  },
+  {
+    "name": "IconFoodFill",
+    "title": "Food Fill",
+    "tag": "Food Fill"
+  },
+  {
+    "name": "IconFoodOffOutline",
+    "title": "Food Off Outline",
+    "tag": "Food Off Outline"
+  },
+  {
+    "name": "IconFoodOffFill",
+    "title": "Food Off Fill",
+    "tag": "Food Off Fill"
+  },
+  {
+    "name": "IconFoodLunchRamenFill",
+    "title": "Food Lunch Ramen Fill",
+    "tag": "Food Lunch Ramen Fill"
+  },
+  {
+    "name": "IconFoodLunchFill",
+    "title": "Food Lunch Fill",
+    "tag": "Food Lunch Fill"
+  },
+  {
+    "name": "IconFoodRestaurantFill",
+    "title": "Food Restaurant Fill",
+    "tag": "Food Restaurant Fill"
+  },
+  {
+    "name": "IconFoodDinnerFill",
+    "title": "Food Dinner Fill",
+    "tag": "Food Dinner Fill"
+  },
+  {
+    "name": "IconFoodBreakfastFill",
+    "title": "Food Breakfast Fill",
+    "tag": "Food Breakfast Fill"
+  },
+  {
+    "name": "IconFoodLunchOutline",
+    "title": "Food Lunch Outline",
+    "tag": "Food Lunch Outline"
+  },
+  {
+    "name": "IconFoodDinnerOutline",
+    "title": "Food Dinner Outline",
+    "tag": "Food Dinner Outline"
+  },
+  {
+    "name": "IconFoodRestaurantOutline",
+    "title": "Food Restaurant Outline",
+    "tag": "Food Restaurant Outline"
+  },
+  {
+    "name": "IconFoodLunchRamenOutline",
+    "title": "Food Lunch Ramen Outline",
+    "tag": "Food Lunch Ramen Outline"
+  },
+  {
+    "name": "IconFoodBreakfastOutline",
+    "title": "Food Breakfast Outline",
+    "tag": "Food Breakfast Outline"
+  },
+  {
+    "name": "IconFamilyOutline",
+    "title": "Family Outline",
+    "tag": "Family Outline"
+  },
+  {
+    "name": "IconFieldManagementFill",
+    "title": "Field Management Fill",
+    "tag": "Field Management Fill"
+  },
+  {
+    "name": "IconFieldManagementOutline",
+    "title": "Field Management Outline",
+    "tag": "Field Management Outline"
+  },
+  {
+    "name": "IconFamilyFill",
+    "title": "Family Fill",
+    "tag": "Family Fill"
+  },
+  {
+    "name": "IconFamilyHeartOutline",
+    "title": "Family Heart Outline",
+    "tag": "Family Heart Outline"
+  },
+  {
+    "name": "IconFamilyHeartFill",
+    "title": "Family Heart Fill",
+    "tag": "Family Heart Fill"
+  },
+  {
+    "name": "IconFamilyAddFill",
+    "title": "Family Add Fill",
+    "tag": "Family Add Fill"
+  },
+  {
+    "name": "IconFamilyAddOutline",
+    "title": "Family Add Outline",
+    "tag": "Family Add Outline"
+  },
+  {
+    "name": "IconFamilyRemoveOutline",
+    "title": "Family Remove Outline",
+    "tag": "Family Remove Outline"
+  },
+  {
+    "name": "IconFamilyRemoveFill",
+    "title": "Family Remove Fill",
+    "tag": "Family Remove Fill"
+  },
+  {
+    "name": "IconFieldManagementViewFill",
+    "title": "Field Management View Fill",
+    "tag": "Field Management View Fill"
+  },
+  {
+    "name": "IconFieldManagementViewOutline",
+    "title": "Field Management View Outline",
+    "tag": "Field Management View Outline"
+  },
+  {
+    "name": "IconFlipOutline",
+    "title": "Flip Outline",
+    "tag": "image | flip"
+  },
+  {
+    "name": "IconFlashOffFill",
+    "title": "Flash Off Fill",
+    "tag": "Flash Off Fill"
+  },
+  {
+    "name": "IconFlashOffOutline",
+    "title": "Flash Off Outline",
+    "tag": "Flash Off Outline"
+  },
+  {
+    "name": "IconFlashOnFill",
+    "title": "Flash On Fill",
+    "tag": "Flash On Fill"
+  },
+  {
+    "name": "IconFlashOnOutline",
+    "title": "Flash On Outline",
+    "tag": "Flash On Outline"
+  },
+  {
+    "name": "IconFireFill",
+    "title": "Fire Fill",
+    "tag": "Fire Fill"
+  },
+  {
+    "name": "IconFireOutline",
+    "title": "Fire Outline",
+    "tag": "Fire Outline"
   }
 ]
