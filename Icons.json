@@ -3978,5 +3978,210 @@
     "name": "IconKeyboardSlash",
     "title": "Keyboard Slash",
     "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
+  },
+  {
+    "name": "IconLinkTypeLink",
+    "title": "Link Type Link",
+    "tag": "Link Type Link"
+  },
+  {
+    "name": "IconLinkTypeAdd",
+    "title": "Link Type Add",
+    "tag": "Link Type Add"
+  },
+  {
+    "name": "IconLinkTypeOff",
+    "title": "Link Type Off",
+    "tag": "Link Type Off"
+  },
+  {
+    "name": "IconAddLocationOutline",
+    "title": "Add Location Outline",
+    "tag": "Add Location Outline"
+  },
+  {
+    "name": "IconLocationFill",
+    "title": "Location Fill",
+    "tag": "Location Fill"
+  },
+  {
+    "name": "IconLocationOutline",
+    "title": "Location Outline",
+    "tag": "Location Outline"
+  },
+  {
+    "name": "IconAddLocationFill",
+    "title": "Add Location Fill",
+    "tag": "Add Location Fill"
+  },
+  {
+    "name": "IconLocationOffOutline",
+    "title": "Location Off Outline",
+    "tag": "Location Off Outline"
+  },
+  {
+    "name": "IconLocationOffFill",
+    "title": "Location Off Fill",
+    "tag": "Location Off Fill"
+  },
+  {
+    "name": "IconLocationErrorOutline",
+    "title": "Location Error Outline",
+    "tag": "Location Error Outline"
+  },
+  {
+    "name": "IconLocationErrorFill",
+    "title": "Location Error Fill",
+    "tag": "Location Error Fill"
+  },
+  {
+    "name": "IconLocationNotFoundOutline",
+    "title": "Location Not Found Outline",
+    "tag": "Location Not Found Outline"
+  },
+  {
+    "name": "IconLocationNotFoundFill",
+    "title": "Location Not Found Fill",
+    "tag": "Location Not Found Fill"
+  },
+  {
+    "name": "IconListViewOutline",
+    "title": "List View Outline",
+    "tag": "List View Outline"
+  },
+  {
+    "name": "IconLogin",
+    "title": "Login",
+    "tag": "Login"
+  },
+  {
+    "name": "IconLogout",
+    "title": "Logout",
+    "tag": "Logout"
+  },
+  {
+    "name": "IconLaptopOutline",
+    "title": "Laptop Outline",
+    "tag": "Laptop Outline"
+  },
+  {
+    "name": "IconLayoutGrid",
+    "title": "Layout Grid",
+    "tag": "filter | grid | layout"
+  },
+  {
+    "name": "IconLayersThreeOutline",
+    "title": "Layers Three Outline",
+    "tag": "Bulk Renew |"
+  },
+  {
+    "name": "IconListRounded",
+    "title": "List Rounded",
+    "tag": "List Rounded"
+  },
+  {
+    "name": "IconLightningBoltFill",
+    "title": "Lightning Bolt Fill",
+    "tag": "Lightning Bolt Fill"
+  },
+  {
+    "name": "IconLightningBoltOutline",
+    "title": "Lightning Bolt Outline",
+    "tag": "Lightning Bolt Outline"
+  },
+  {
+    "name": "IconLms",
+    "title": "Lms",
+    "tag": "Lms"
+  },
+  {
+    "name": "IconListDoubleLineSquare",
+    "title": "List Double Line Square",
+    "tag": "List Double Line Square"
+  },
+  {
+    "name": "IconListViewFill",
+    "title": "List View Fill",
+    "tag": "List View Fill"
+  },
+  {
+    "name": "IconLayersThreeFill",
+    "title": "Layers Three Fill",
+    "tag": "Bulk Renew |"
+  },
+  {
+    "name": "IconListDoubleLineRounded",
+    "title": "List Double Line Rounded",
+    "tag": "List Double Line Rounded"
+  },
+  {
+    "name": "IconListSquare",
+    "title": "List Square",
+    "tag": "List Square"
+  },
+  {
+    "name": "IconLinkTypeRemove",
+    "title": "Link Type Remove",
+    "tag": "Link Type Remove"
+  },
+  {
+    "name": "IconLinkVariantOutline",
+    "title": "Link Variant Outline",
+    "tag": "Link Variant Outline"
+  },
+  {
+    "name": "IconLinkVariantFill",
+    "title": "Link Variant Fill",
+    "tag": "Link Variant Fill"
+  },
+  {
+    "name": "IconLive",
+    "title": "Live",
+    "tag": "Live"
+  },
+  {
+    "name": "IconLookupSearch",
+    "title": "Lookup Search",
+    "tag": "Lookup Search"
+  },
+  {
+    "name": "IconLinkVariant2",
+    "title": "Link Variant2",
+    "tag": "Link Variant2"
+  },
+  {
+    "name": "IconLightBulbFill",
+    "title": "Light Bulb Fill",
+    "tag": "Light Bulb Fill"
+  },
+  {
+    "name": "IconLightBulbOutline",
+    "title": "Light Bulb Outline",
+    "tag": "Light Bulb Outline"
+  },
+  {
+    "name": "IconLaptopFill",
+    "title": "Laptop Fill",
+    "tag": "Laptop Fill"
+  },
+  {
+    "name": "IconLightningBoltOffFill",
+    "title": "Lightning Bolt Off Fill",
+    "tag": "Lightning Bolt Off Fill"
+  },
+  {
+    "name": "IconLightningBoltOffOutline",
+    "title": "Lightning Bolt Off Outline",
+    "tag": "Lightning Bolt Off Outline"
+  },
+  {
+    "name": "IconLightBulbOffOutline",
+    "title": "Light Bulb Off Outline",
+    "tag": "Light Bulb Off Outline"
+  },
+  {
+    "name": "IconLightBulbOffFill",
+    "title": "Light Bulb Off Fill",
+    "tag": "Light Bulb Off Fill"
   }
 ]
