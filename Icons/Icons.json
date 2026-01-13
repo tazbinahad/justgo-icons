@@ -6378,5 +6378,235 @@
     "name": "IconUploadCloud",
     "title": "Upload Cloud",
     "tag": "Upload Cloud"
+  },
+  {
+    "name": "IconWeatherWindyVariant",
+    "title": "Weather Windy Variant",
+    "tag": "Weather Windy Variant"
+  },
+  {
+    "name": "IconWeatherSunset",
+    "title": "Weather Sunset",
+    "tag": "Weather Sunset"
+  },
+  {
+    "name": "IconWeatherSunnyOff",
+    "title": "Weather Sunny Off",
+    "tag": "Weather Sunny Off"
+  },
+  {
+    "name": "IconWeatherSunnyAlert",
+    "title": "Weather Sunny Alert",
+    "tag": "Weather Sunny Alert"
+  },
+  {
+    "name": "IconWeatherSunny",
+    "title": "Weather Sunny",
+    "tag": "Weather Sunny"
+  },
+  {
+    "name": "IconWeatherPartlyRainy",
+    "title": "Weather Partly Rainy",
+    "tag": "Weather Partly Rainy"
+  },
+  {
+    "name": "IconWeatherPartlySnowy",
+    "title": "Weather Partly Snowy",
+    "tag": "Weather Partly Snowy"
+  },
+  {
+    "name": "IconWeatherPartlySnowyRainy",
+    "title": "Weather Partly Snowy Rainy",
+    "tag": "Weather Partly Snowy Rainy"
+  },
+  {
+    "name": "IconWeatherSnowy",
+    "title": "Weather Snowy",
+    "tag": "Weather Snowy"
+  },
+  {
+    "name": "IconWeatherDust",
+    "title": "Weather Dust",
+    "tag": "Weather Dust"
+  },
+  {
+    "name": "IconWeatherTornado",
+    "title": "Weather Tornado",
+    "tag": "Weather Tornado"
+  },
+  {
+    "name": "IconWeatherCloudyAlert",
+    "title": "Weather Cloudy Alert",
+    "tag": "Weather Cloudy Alert"
+  },
+  {
+    "name": "IconWeatherSnowyHeavy",
+    "title": "Weather Snowy Heavy",
+    "tag": "Weather Snowy Heavy"
+  },
+  {
+    "name": "IconWeatherSunsetUp",
+    "title": "Weather Sunset Up",
+    "tag": "Weather Sunset Up"
+  },
+  {
+    "name": "IconWeatherCloudyArrowRight",
+    "title": "Weather Cloudy Arrow Right",
+    "tag": "Weather Cloudy Arrow Right"
+  },
+  {
+    "name": "IconWeatherPartlyLightning",
+    "title": "Weather Partly Lightning",
+    "tag": "Weather Partly Lightning"
+  },
+  {
+    "name": "IconWeatherSunsetDown",
+    "title": "Weather Sunset Down",
+    "tag": "Weather Sunset Down"
+  },
+  {
+    "name": "IconSunWirelessOutline",
+    "title": "Sun Wireless Outline",
+    "tag": "Sun Wireless Outline"
+  },
+  {
+    "name": "IconWeatherNightPartlyCloudy",
+    "title": "Weather Night Partly Cloudy",
+    "tag": "Weather Night Partly Cloudy"
+  },
+  {
+    "name": "IconWeatherCloudy",
+    "title": "Weather Cloudy",
+    "tag": "Weather Cloudy"
+  },
+  {
+    "name": "IconWeatherSnowyRainy",
+    "title": "Weather Snowy Rainy",
+    "tag": "Weather Snowy Rainy"
+  },
+  {
+    "name": "IconWeatherHurricane",
+    "title": "Weather Hurricane",
+    "tag": "Weather Hurricane"
+  },
+  {
+    "name": "IconSunWireless",
+    "title": "Sun Wireless",
+    "tag": "Sun Wireless"
+  },
+  {
+    "name": "IconWeatherPartlyCloudy",
+    "title": "Weather Partly Cloudy",
+    "tag": "Weather Partly Cloudy"
+  },
+  {
+    "name": "IconWeatherHazy",
+    "title": "Weather Hazy",
+    "tag": "Weather Hazy"
+  },
+  {
+    "name": "IconWeatherWindy",
+    "title": "Weather Windy",
+    "tag": "Weather Windy"
+  },
+  {
+    "name": "IconWeatherFog",
+    "title": "Weather Fog",
+    "tag": "Weather Fog"
+  },
+  {
+    "name": "IconWeatherLightningRainy",
+    "title": "Weather Lightning Rainy",
+    "tag": "Weather Lightning Rainy"
+  },
+  {
+    "name": "IconWeatherLightning",
+    "title": "Weather Lightning",
+    "tag": "Weather Lightning"
+  },
+  {
+    "name": "IconWeatherHail",
+    "title": "Weather Hail",
+    "tag": "Weather Hail"
+  },
+  {
+    "name": "IconWeatherPouring",
+    "title": "Weather Pouring",
+    "tag": "Weather Pouring"
+  },
+  {
+    "name": "IconWeatherRainy",
+    "title": "Weather Rainy",
+    "tag": "Weather Rainy"
+  },
+  {
+    "name": "IconWeatherNight",
+    "title": "Weather Night",
+    "tag": "Weather Night"
+  },
+  {
+    "name": "IconWeatherCloudyClock",
+    "title": "Weather Cloudy Clock",
+    "tag": "Weather Cloudy Clock"
+  },
+  {
+    "name": "IconWomen",
+    "title": "Women",
+    "tag": "Women"
+  },
+  {
+    "name": "IconWidgetsOutline",
+    "title": "Widgets Outline",
+    "tag": "Widgets Outline"
+  },
+  {
+    "name": "IconWidgetsFill",
+    "title": "Widgets Fill",
+    "tag": "Widgets Fill"
+  },
+  {
+    "name": "IconWidgetsAddFill",
+    "title": "Widgets Add Fill",
+    "tag": "Widgets Add Fill"
+  },
+  {
+    "name": "IconWidgetsAddOutline",
+    "title": "Widgets Add Outline",
+    "tag": "Widgets Add Outline"
+  },
+  {
+    "name": "IconWidgetsRemoveOutline",
+    "title": "Widgets Remove Outline",
+    "tag": "Widgets Remove Outline"
+  },
+  {
+    "name": "IconWidgetsRemoveFill",
+    "title": "Widgets Remove Fill",
+    "tag": "Widgets Remove Fill"
+  },
+  {
+    "name": "IconWifi",
+    "title": "Wifi",
+    "tag": "Wifi"
+  },
+  {
+    "name": "IconWifiOff",
+    "title": "Wifi Off",
+    "tag": "Wifi Off"
+  },
+  {
+    "name": "IconWebsiteBuilder",
+    "title": "Website Builder",
+    "tag": "Website Builder"
+  },
+  {
+    "name": "IconWalletOutline",
+    "title": "Wallet Outline",
+    "tag": "balance"
+  },
+  {
+    "name": "IconWalletFill",
+    "title": "Wallet Fill",
+    "tag": "balance"
   }
 ]
