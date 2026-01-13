@@ -3748,5 +3748,220 @@
     "name": "IconHorse",
     "title": "Horse",
     "tag": "Horse"
+  },
+  {
+    "name": "IconItalic01",
+    "title": "Italic01",
+    "tag": "Italic01"
+  },
+  {
+    "name": "IconItalic",
+    "title": "Italic",
+    "tag": "Italic"
+  },
+  {
+    "name": "IconInfoStyleOutline",
+    "title": "Info Style Outline",
+    "tag": "Info Style Outline"
+  },
+  {
+    "name": "IconInfoStyleFilled",
+    "title": "Info Style Filled",
+    "tag": "Info Style Filled"
+  },
+  {
+    "name": "IconInboxFullOutline",
+    "title": "Inbox Full Outline",
+    "tag": "Inbox Full Outline"
+  },
+  {
+    "name": "IconInboxFullFill",
+    "title": "Inbox Full Fill",
+    "tag": "Inbox Full Fill"
+  },
+  {
+    "name": "IconInboxFill",
+    "title": "Inbox Fill",
+    "tag": "Inbox Fill"
+  },
+  {
+    "name": "IconImageRemoveOutline",
+    "title": "Image Remove Outline",
+    "tag": "Image Remove Outline"
+  },
+  {
+    "name": "IconImageRemoveFill",
+    "title": "Image Remove Fill",
+    "tag": "Image Remove Fill"
+  },
+  {
+    "name": "IconImageRefreshOutline",
+    "title": "Image Refresh Outline",
+    "tag": "Image Refresh Outline"
+  },
+  {
+    "name": "IconImageOutline",
+    "title": "Image Outline",
+    "tag": "Image Outline"
+  },
+  {
+    "name": "IconImageOffOutline",
+    "title": "Image Off Outline",
+    "tag": "Image Off Outline"
+  },
+  {
+    "name": "IconImageOffFill",
+    "title": "Image Off Fill",
+    "tag": "Image Off Fill"
+  },
+  {
+    "name": "IconImageMinusOutline",
+    "title": "Image Minus Outline",
+    "tag": "Image Minus Outline"
+  },
+  {
+    "name": "IconImageMinusFill",
+    "title": "Image Minus Fill",
+    "tag": "Image Minus Fill"
+  },
+  {
+    "name": "IconImageCheckOutline",
+    "title": "Image Check Outline",
+    "tag": "Image Check Outline"
+  },
+  {
+    "name": "IconImageCheckFill",
+    "title": "Image Check Fill",
+    "tag": "Image Check Fill"
+  },
+  {
+    "name": "IconImagePlusOutline",
+    "title": "Image Plus Outline",
+    "tag": "Image Plus Outline"
+  },
+  {
+    "name": "IconImagePlusFill",
+    "title": "Image Plus Fill",
+    "tag": "Image Plus Fill"
+  },
+  {
+    "name": "IconImageEditOutline",
+    "title": "Image Edit Outline",
+    "tag": "Image Edit Outline"
+  },
+  {
+    "name": "IconImageEditFill",
+    "title": "Image Edit Fill",
+    "tag": "Image Edit Fill"
+  },
+  {
+    "name": "IconImageRefreshFill",
+    "title": "Image Refresh Fill",
+    "tag": "Image Refresh Fill"
+  },
+  {
+    "name": "IconImageFill",
+    "title": "Image Fill",
+    "tag": "Image Fill"
+  },
+  {
+    "name": "IconInvoiceTextRemoveFill",
+    "title": "Invoice Text Remove Fill",
+    "tag": "Invoice Text Remove Fill"
+  },
+  {
+    "name": "IconInvoiceTextMinusFill",
+    "title": "Invoice Text Minus Fill",
+    "tag": "Invoice Text Minus Fill"
+  },
+  {
+    "name": "IconInvoiceTextOutline",
+    "title": "Invoice Text Outline",
+    "tag": "Invoice Text Outline"
+  },
+  {
+    "name": "IconInvoiceTextRemoveOutline",
+    "title": "Invoice Text Remove Outline",
+    "tag": "Invoice Text Remove Outline"
+  },
+  {
+    "name": "IconInvoiceTextCheckOutline",
+    "title": "Invoice Text Check Outline",
+    "tag": "Invoice Text Check Outline"
+  },
+  {
+    "name": "IconInvoiceTextPlusFill",
+    "title": "Invoice Text Plus Fill",
+    "tag": "Invoice Text Plus Fill"
+  },
+  {
+    "name": "IconInvoiceTextCheckFill",
+    "title": "Invoice Text Check Fill",
+    "tag": "Invoice Text Check Fill"
+  },
+  {
+    "name": "IconInvoiceTextPlusOutline",
+    "title": "Invoice Text Plus Outline",
+    "tag": "Invoice Text Plus Outline"
+  },
+  {
+    "name": "IconInvoiceTextMinusOutline",
+    "title": "Invoice Text Minus Outline",
+    "tag": "Invoice Text Minus Outline"
+  },
+  {
+    "name": "IconInvoiceTextFill",
+    "title": "Invoice Text Fill",
+    "tag": "Invoice Text Fill"
+  },
+  {
+    "name": "IconImportFileOutline",
+    "title": "Import File Outline",
+    "tag": "Upload file\nAdd file\nBring in file\nInsert file\nLoad file\nRetrieve file\nIncorporate file\nImport data\nTransfer file\nIntegrate file"
+  },
+  {
+    "name": "IconImportFileFill",
+    "title": "Import File Fill",
+    "tag": "Upload file\nAdd file\nBring in file\nInsert file\nLoad file\nRetrieve file\nIncorporate file\nImport data\nTransfer file\nIntegrate file"
+  },
+  {
+    "name": "IconImportOutline",
+    "title": "Import Outline",
+    "tag": "Import Outline"
+  },
+  {
+    "name": "IconImportFill",
+    "title": "Import Fill",
+    "tag": "Import Fill"
+  },
+  {
+    "name": "IconListEditOutline",
+    "title": "List Edit Outline",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconListEditFill",
+    "title": "List Edit Fill",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconInfoStyleBulk",
+    "title": "Info Style Bulk",
+    "tag": "Info Style Bulk"
+  },
+  {
+    "name": "IconInboxOutline",
+    "title": "Inbox Outline",
+    "tag": "Inbox Outline"
+  },
+  {
+    "name": "IconInboxSettingsOutline",
+    "title": "Inbox Settings Outline",
+    "tag": "Inbox Settings Outline"
+  },
+  {
+    "name": "IconInboxSettingsFill",
+    "title": "Inbox Settings Fill",
+    "tag": "Inbox Settings Fill"
   }
 ]
