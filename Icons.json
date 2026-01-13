@@ -4588,5 +4588,30 @@
     "name": "IconNumeric9BoxFill",
     "title": "Numeric9 Box Fill",
     "tag": "Numeric9 Box Fill"
+  },
+  {
+    "name": "IconOverviewOutline",
+    "title": "Overview Outline",
+    "tag": "Overview Outline"
+  },
+  {
+    "name": "IconOverviewEditOutline",
+    "title": "Overview Edit Outline",
+    "tag": "Overview Edit Outline"
+  },
+  {
+    "name": "IconOverviewEditFill",
+    "title": "Overview Edit Fill",
+    "tag": "Overview Edit Fill"
+  },
+  {
+    "name": "IconOverviewFill",
+    "title": "Overview Fill",
+    "tag": "Overview Fill"
+  },
+  {
+    "name": "IconOpenInNew",
+    "title": "Open In New",
+    "tag": "redirect | hyperlink"
   }
 ]
