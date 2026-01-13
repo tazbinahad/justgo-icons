@@ -3623,5 +3623,130 @@
     "name": "IconGroupsWatingListOutline",
     "title": "Groups Wating List Outline",
     "tag": "Groups Wating List Outline"
+  },
+  {
+    "name": "IconHistoryTypeHistory",
+    "title": "History Type History",
+    "tag": "History Type History"
+  },
+  {
+    "name": "IconHistoryTypeSettings",
+    "title": "History Type Settings",
+    "tag": "History Type Settings"
+  },
+  {
+    "name": "IconHomeOutline",
+    "title": "Home Outline",
+    "tag": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n\n\n  <path d=\"M12 6.19L17 10.69V18.5H15V12.5H9V18.5H7V10.69L12 6.19M12 3.5L2 12.5H5V20.5H11V14.5H13V20.5H19V12.5H22L12 3.5Z\" fill=\"#455A64\"/>\n\n\n</svg>"
+  },
+  {
+    "name": "IconHomeFill",
+    "title": "Home Fill",
+    "tag": "Home Fill"
+  },
+  {
+    "name": "IconHelpFill",
+    "title": "Help Fill",
+    "tag": "Help Fill"
+  },
+  {
+    "name": "IconHelpOutline",
+    "title": "Help Outline",
+    "tag": "Help Outline"
+  },
+  {
+    "name": "IconHeadphoneOutline",
+    "title": "Headphone Outline",
+    "tag": "Headphone Outline"
+  },
+  {
+    "name": "IconHeadphoneMicOutline",
+    "title": "Headphone Mic Outline",
+    "tag": "Headphone Mic Outline"
+  },
+  {
+    "name": "IconHeadphoneFill",
+    "title": "Headphone Fill",
+    "tag": "Headphone Fill"
+  },
+  {
+    "name": "IconHeadphoneMicFill",
+    "title": "Headphone Mic Fill",
+    "tag": "Headphone Mic Fill"
+  },
+  {
+    "name": "IconHeadphoneOffOutline",
+    "title": "Headphone Off Outline",
+    "tag": "Headphone Off Outline"
+  },
+  {
+    "name": "IconHeadphoneOffFill",
+    "title": "Headphone Off Fill",
+    "tag": "Headphone Off Fill"
+  },
+  {
+    "name": "IconHeartStyleOutline",
+    "title": "Heart Style Outline",
+    "tag": "Heart Style Outline"
+  },
+  {
+    "name": "IconHashTag",
+    "title": "Hash Tag",
+    "tag": "Hash Tag"
+  },
+  {
+    "name": "IconHeartStyleFill",
+    "title": "Heart Style Fill",
+    "tag": "Heart Style Fill"
+  },
+  {
+    "name": "IconHeading",
+    "title": "Heading",
+    "tag": "h | H | section |"
+  },
+  {
+    "name": "IconHourglassFill",
+    "title": "Hourglass Fill",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHourglassOutline",
+    "title": "Hourglass Outline",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHourglassDisabledOutline",
+    "title": "Hourglass Disabled Outline",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHourglassDisabledFill",
+    "title": "Hourglass Disabled Fill",
+    "tag": "Timmer\nClock"
+  },
+  {
+    "name": "IconHeartStyleDuotoneOutline",
+    "title": "Heart Style Duotone Outline",
+    "tag": "Heart Style Duotone Outline"
+  },
+  {
+    "name": "IconHeartStyleDuotoneFill",
+    "title": "Heart Style Duotone Fill",
+    "tag": "Heart Style Duotone Fill"
+  },
+  {
+    "name": "IconHourglassVariantFill",
+    "title": "Hourglass Variant Fill",
+    "tag": "Hourglass Variant Fill"
+  },
+  {
+    "name": "IconHourglassVariantOutline",
+    "title": "Hourglass Variant Outline",
+    "tag": "Hourglass Variant Outline"
+  },
+  {
+    "name": "IconHorse",
+    "title": "Horse",
+    "tag": "Horse"
   }
 ]
