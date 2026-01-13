@@ -1633,5 +1633,355 @@
     "name": "IconChevronCircleLeftFill",
     "title": "Chevron Circle Left Fill",
     "tag": "Chevron Circle Left Fill"
+  },
+  {
+    "name": "IconDownloadTypeAvailable",
+    "title": "Download Type Available",
+    "tag": "Download Type Available"
+  },
+  {
+    "name": "IconDotsTypeVertical",
+    "title": "Dots Type Vertical",
+    "tag": "Dots Type Vertical"
+  },
+  {
+    "name": "IconDotsTypeHorizontal",
+    "title": "Dots Type Horizontal",
+    "tag": "Dots Type Horizontal"
+  },
+  {
+    "name": "IconDocumentTextBoxSearchOutline",
+    "title": "Document Text Box Search Outline",
+    "tag": "Document Text Box Search Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxSearchFill",
+    "title": "Document Text Box Search Fill",
+    "tag": "Document Text Box Search Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxRemoveOutline",
+    "title": "Document Text Box Remove Outline",
+    "tag": "Document Text Box Remove Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxRemoveFill",
+    "title": "Document Text Box Remove Fill",
+    "tag": "Document Text Box Remove Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxPlusOutline",
+    "title": "Document Text Box Plus Outline",
+    "tag": "Document Text Box Plus Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxPlusFill",
+    "title": "Document Text Box Plus Fill",
+    "tag": "Document Text Box Plus Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxMinusOutline",
+    "title": "Document Text Box Minus Outline",
+    "tag": "Document Text Box Minus Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxMinusFill",
+    "title": "Document Text Box Minus Fill",
+    "tag": "Document Text Box Minus Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxFill",
+    "title": "Document Text Box Fill",
+    "tag": "Document Text Box Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxCheckOutline",
+    "title": "Document Text Box Check Outline",
+    "tag": "Document Text Box Check Outline"
+  },
+  {
+    "name": "IconDatabaseSyncOutline",
+    "title": "Database Sync Outline",
+    "tag": "Database Sync Outline"
+  },
+  {
+    "name": "IconDatabaseSyncFill",
+    "title": "Database Sync Fill",
+    "tag": "Database Sync Fill"
+  },
+  {
+    "name": "IconDatabasePlusOutline",
+    "title": "Database Plus Outline",
+    "tag": "Database Plus Outline"
+  },
+  {
+    "name": "IconDatabaseOutline",
+    "title": "Database Outline",
+    "tag": "Database Outline"
+  },
+  {
+    "name": "IconDatabaseOffOutline",
+    "title": "Database Off Outline",
+    "tag": "Database Off Outline"
+  },
+  {
+    "name": "IconDatabaseOffFill",
+    "title": "Database Off Fill",
+    "tag": "Database Off Fill"
+  },
+  {
+    "name": "IconDatabaseMinusOutline",
+    "title": "Database Minus Outline",
+    "tag": "Database Minus Outline"
+  },
+  {
+    "name": "IconDatabaseMinusFill",
+    "title": "Database Minus Fill",
+    "tag": "Database Minus Fill"
+  },
+  {
+    "name": "IconDatabaseImportOutline",
+    "title": "Database Import Outline",
+    "tag": "Database Import Outline"
+  },
+  {
+    "name": "IconDatabaseImportFill",
+    "title": "Database Import Fill",
+    "tag": "Database Import Fill"
+  },
+  {
+    "name": "IconDatabaseExportOutline",
+    "title": "Database Export Outline",
+    "tag": "Database Export Outline"
+  },
+  {
+    "name": "IconDatabaseExportFill",
+    "title": "Database Export Fill",
+    "tag": "Database Export Fill"
+  },
+  {
+    "name": "IconDatabaseEditOutline",
+    "title": "Database Edit Outline",
+    "tag": "Database Edit Outline"
+  },
+  {
+    "name": "IconDatabaseSettingsOutline",
+    "title": "Database Settings Outline",
+    "tag": "Database Settings Outline"
+  },
+  {
+    "name": "IconDatabaseSettingsFill",
+    "title": "Database Settings Fill",
+    "tag": "Database Settings Fill"
+  },
+  {
+    "name": "IconDatabaseCheckOutline",
+    "title": "Database Check Outline",
+    "tag": "Database Check Outline"
+  },
+  {
+    "name": "IconDatabaseRemoveFill",
+    "title": "Database Remove Fill",
+    "tag": "Database Remove Fill"
+  },
+  {
+    "name": "IconDatabaseEyeOffOutline",
+    "title": "Database Eye Off Outline",
+    "tag": "Database Eye Off Outline"
+  },
+  {
+    "name": "IconDatabasePlusFill",
+    "title": "Database Plus Fill",
+    "tag": "Database Plus Fill"
+  },
+  {
+    "name": "IconDatabaseEyeOffFill",
+    "title": "Database Eye Off Fill",
+    "tag": "Database Eye Off Fill"
+  },
+  {
+    "name": "IconDatabaseEyeFill",
+    "title": "Database Eye Fill",
+    "tag": "Database Eye Fill"
+  },
+  {
+    "name": "IconDatabaseCheckFill",
+    "title": "Database Check Fill",
+    "tag": "Database Check Fill"
+  },
+  {
+    "name": "IconDatabaseFill",
+    "title": "Database Fill",
+    "tag": "Database Fill"
+  },
+  {
+    "name": "IconDatabaseEditFill",
+    "title": "Database Edit Fill",
+    "tag": "Database Edit Fill"
+  },
+  {
+    "name": "IconDocumentClockFill",
+    "title": "Document Clock Fill",
+    "tag": "Document Clock Fill"
+  },
+  {
+    "name": "IconDocumentClockOutline",
+    "title": "Document Clock Outline",
+    "tag": "Document Clock Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxOutline",
+    "title": "Document Text Box Outline",
+    "tag": "Document Text Box Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxClockOutline",
+    "title": "Document Text Box Clock Outline",
+    "tag": "Document Text Box Clock Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxClockFill",
+    "title": "Document Text Box Clock Fill",
+    "tag": "Document Text Box Clock Fill"
+  },
+  {
+    "name": "IconDownloadTypeNotAvailable",
+    "title": "Download Type Not Available",
+    "tag": "Download Type Not Available"
+  },
+  {
+    "name": "IconDatabaseEyeOutline",
+    "title": "Database Eye Outline",
+    "tag": "Database Eye Outline"
+  },
+  {
+    "name": "IconDocumentTextBoxCheckFill",
+    "title": "Document Text Box Check Fill",
+    "tag": "Document Text Box Check Fill"
+  },
+  {
+    "name": "IconDocumentTextBoxArrowOutline",
+    "title": "Document Text Box Arrow Outline",
+    "tag": "document send"
+  },
+  {
+    "name": "IconDocumentTextBoxArrowFill",
+    "title": "Document Text Box Arrow Fill",
+    "tag": "document send"
+  },
+  {
+    "name": "IconDatabaseRemoveOutline",
+    "title": "Database Remove Outline",
+    "tag": "Database Remove Outline"
+  },
+  {
+    "name": "IconDotsGrid",
+    "title": "Dots Grid",
+    "tag": "Dots Grid"
+  },
+  {
+    "name": "IconDeleteOutline",
+    "title": "Delete Outline",
+    "tag": "Delete Outline"
+  },
+  {
+    "name": "IconDeleteFill",
+    "title": "Delete Fill",
+    "tag": "Delete Fill"
+  },
+  {
+    "name": "IconDeleteAutoOutline",
+    "title": "Delete Auto Outline",
+    "tag": "Delete Auto Outline"
+  },
+  {
+    "name": "IconDeleteAutoFill",
+    "title": "Delete Auto Fill",
+    "tag": "Delete Auto Fill"
+  },
+  {
+    "name": "IconDuplicateOutline",
+    "title": "Duplicate Outline",
+    "tag": "Duplicate Outline"
+  },
+  {
+    "name": "IconDuplicateFill",
+    "title": "Duplicate Fill",
+    "tag": "Duplicate Fill"
+  },
+  {
+    "name": "IconDigitalWalletConfigOutline",
+    "title": "Digital Wallet Config Outline",
+    "tag": "Digital Wallet Config Outline"
+  },
+  {
+    "name": "IconDigitalWalletConfigFill",
+    "title": "Digital Wallet Config Fill",
+    "tag": "Digital Wallet Config Fill"
+  },
+  {
+    "name": "IconDigitalWalletOutline",
+    "title": "Digital Wallet Outline",
+    "tag": "Digital Wallet Outline"
+  },
+  {
+    "name": "IconDigitalWalletFill",
+    "title": "Digital Wallet Fill",
+    "tag": "Digital Wallet Fill"
+  },
+  {
+    "name": "IconDirectionsArrowRightOutline",
+    "title": "Directions Arrow Right Outline",
+    "tag": "Directions Arrow Right Outline"
+  },
+  {
+    "name": "IconDirectionsArrowRightFill",
+    "title": "Directions Arrow Right Fill",
+    "tag": "Directions Arrow Right Fill"
+  },
+  {
+    "name": "IconDirectionsArrowLeftOutline",
+    "title": "Directions Arrow Left Outline",
+    "tag": "Directions Arrow Left Outline"
+  },
+  {
+    "name": "IconDirectionsArrowLeftFill",
+    "title": "Directions Arrow Left Fill",
+    "tag": "Directions Arrow Left Fill"
+  },
+  {
+    "name": "IconDockToLeft",
+    "title": "Dock To Left",
+    "tag": "dock open"
+  },
+  {
+    "name": "IconDockToRight",
+    "title": "Dock To Right",
+    "tag": "dock close"
+  },
+  {
+    "name": "IconDashboard",
+    "title": "Dashboard",
+    "tag": "Dashboard"
+  },
+  {
+    "name": "IconDesktopMonitor",
+    "title": "Desktop Monitor",
+    "tag": "Desktop Monitor"
+  },
+  {
+    "name": "IconDashboardAdd",
+    "title": "Dashboard Add",
+    "tag": "Dashboard Add"
+  },
+  {
+    "name": "IconDragHorizontalVariant",
+    "title": "Drag Horizontal Variant",
+    "tag": "Drag Horizontal Variant"
+  },
+  {
+    "name": "IconDragIndicator",
+    "title": "Drag Indicator",
+    "tag": "Drag Indicator"
   }
 ]
