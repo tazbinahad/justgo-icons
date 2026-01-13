@@ -6263,5 +6263,100 @@
     "name": "IconTabletFill",
     "title": "Tablet Fill",
     "tag": "Tablet Fill"
+  },
+  {
+    "name": "IconVerifiedFill",
+    "title": "Verified Fill",
+    "tag": "Verified Fill"
+  },
+  {
+    "name": "IconVerifiedOutline",
+    "title": "Verified Outline",
+    "tag": "Verified Outline"
+  },
+  {
+    "name": "IconVolumeVariantOff",
+    "title": "Volume Variant Off",
+    "tag": "Volume Variant Off"
+  },
+  {
+    "name": "IconVolumeMedium",
+    "title": "Volume Medium",
+    "tag": "Volume Medium"
+  },
+  {
+    "name": "IconVolumeMute",
+    "title": "Volume Mute",
+    "tag": "Volume Mute"
+  },
+  {
+    "name": "IconVolumeFull",
+    "title": "Volume Full",
+    "tag": "Volume Full"
+  },
+  {
+    "name": "IconVolumeOff",
+    "title": "Volume Off",
+    "tag": "Volume Off"
+  },
+  {
+    "name": "IconVolumeMinus",
+    "title": "Volume Minus",
+    "tag": "Volume Minus"
+  },
+  {
+    "name": "IconVolumeLow",
+    "title": "Volume Low",
+    "tag": "Volume Low"
+  },
+  {
+    "name": "IconVolumeVibrate",
+    "title": "Volume Vibrate",
+    "tag": "Volume Vibrate"
+  },
+  {
+    "name": "IconVolumePlus",
+    "title": "Volume Plus",
+    "tag": "Volume Plus"
+  },
+  {
+    "name": "IconVideoAddOutline",
+    "title": "Video Add Outline",
+    "tag": "Video Add Outline"
+  },
+  {
+    "name": "IconMonitorAccount",
+    "title": "Monitor Account",
+    "tag": "Monitor Account"
+  },
+  {
+    "name": "IconLaptopAccount",
+    "title": "Laptop Account",
+    "tag": "Laptop Account"
+  },
+  {
+    "name": "IconVideoAddFill",
+    "title": "Video Add Fill",
+    "tag": "Video Add Fill"
+  },
+  {
+    "name": "IconVideoOutline",
+    "title": "Video Outline",
+    "tag": "Video Outline"
+  },
+  {
+    "name": "IconVideoFill",
+    "title": "Video Fill",
+    "tag": "Video Fill"
+  },
+  {
+    "name": "IconNotVerifiedOutline",
+    "title": "Not Verified Outline",
+    "tag": "Not Verified Outline"
+  },
+  {
+    "name": "IconNotVerifiedFill",
+    "title": "Not Verified Fill",
+    "tag": "Not Verified Fill"
   }
 ]
