@@ -3963,5 +3963,20 @@
     "name": "IconInboxSettingsFill",
     "title": "Inbox Settings Fill",
     "tag": "Inbox Settings Fill"
+  },
+  {
+    "name": "IconKeyboardEnter",
+    "title": "Keyboard Enter",
+    "tag": "Return | Shortcut"
+  },
+  {
+    "name": "IconKeyboardEsc",
+    "title": "Keyboard Esc",
+    "tag": "close | shortcut"
+  },
+  {
+    "name": "IconKeyboardSlash",
+    "title": "Keyboard Slash",
+    "tag": "Division Key |\nOblique Key |\nForward Slash Key |\nSolidus Key |"
   }
 ]
