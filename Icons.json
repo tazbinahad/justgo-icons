@@ -513,5 +513,210 @@
     "name": "IconArrowBackDirectionLeft",
     "title": "Arrow Back Direction Left",
     "tag": "Arrow Back Direction Left"
+  },
+  {
+    "name": "IconBandedOutline",
+    "title": "Banded Outline",
+    "tag": "Banded Outline"
+  },
+  {
+    "name": "IconBookmarkOutline",
+    "title": "Bookmark Outline",
+    "tag": "Bookmark Outline"
+  },
+  {
+    "name": "IconBookmarkAddOutline",
+    "title": "Bookmark Add Outline",
+    "tag": "Bookmark Add Outline"
+  },
+  {
+    "name": "IconBookmarkAddedOutline",
+    "title": "Bookmark Added Outline",
+    "tag": "Bookmark Added Outline"
+  },
+  {
+    "name": "IconBookmarkRemoveOutline",
+    "title": "Bookmark Remove Outline",
+    "tag": "Bookmark Remove Outline"
+  },
+  {
+    "name": "IconArchiveOutline",
+    "title": "Archive Outline",
+    "tag": "Archive Outline"
+  },
+  {
+    "name": "IconBarChartAddOutline",
+    "title": "Bar Chart Add Outline",
+    "tag": "Bar Chart Add Outline"
+  },
+  {
+    "name": "IconBold",
+    "title": "Bold",
+    "tag": "Bold"
+  },
+  {
+    "name": "IconBookmarkFill",
+    "title": "Bookmark Fill",
+    "tag": "Bookmark Fill"
+  },
+  {
+    "name": "IconBookmarkAddedFill",
+    "title": "Bookmark Added Fill",
+    "tag": "Bookmark Added Fill"
+  },
+  {
+    "name": "IconBookmarkAddFill",
+    "title": "Bookmark Add Fill",
+    "tag": "Bookmark Add Fill"
+  },
+  {
+    "name": "IconBookmarkRemoveFill",
+    "title": "Bookmark Remove Fill",
+    "tag": "Bookmark Remove Fill"
+  },
+  {
+    "name": "IconBedFill",
+    "title": "Bed Fill",
+    "tag": "Bed Fill"
+  },
+  {
+    "name": "IconBedOutline",
+    "title": "Bed Outline",
+    "tag": "Bed Outline"
+  },
+  {
+    "name": "IconBankRemoveOutline",
+    "title": "Bank Remove Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankOutline",
+    "title": "Bank Outline",
+    "tag": "finance | money | wealth | payment"
+  },
+  {
+    "name": "IconBankCheckFill",
+    "title": "Bank Check Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankPlusOutline",
+    "title": "Bank Plus Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankMinusOutline",
+    "title": "Bank Minus Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankFill",
+    "title": "Bank Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBackspaceLeftFill",
+    "title": "Backspace Left Fill",
+    "tag": "Backspace Left Fill"
+  },
+  {
+    "name": "IconBackspaceLeftOutline",
+    "title": "Backspace Left Outline",
+    "tag": "Backspace Left Outline"
+  },
+  {
+    "name": "IconBoatFill",
+    "title": "Boat Fill",
+    "tag": "Boat Fill"
+  },
+  {
+    "name": "IconBoatOutline",
+    "title": "Boat Outline",
+    "tag": "Boat Outline"
+  },
+  {
+    "name": "IconBathtubFill",
+    "title": "Bathtub Fill",
+    "tag": "Bathtub Fill"
+  },
+  {
+    "name": "IconBathtubOutline",
+    "title": "Bathtub Outline",
+    "tag": "Bathtub Outline"
+  },
+  {
+    "name": "IconUnarchiveFillFalse",
+    "title": "Unarchive Fill False",
+    "tag": "Unarchive Fill False"
+  },
+  {
+    "name": "IconArchiveFill",
+    "title": "Archive Fill",
+    "tag": "Archive Fill"
+  },
+  {
+    "name": "IconUnarchiveFillTrue",
+    "title": "Unarchive Fill True",
+    "tag": "Unarchive Fill True"
+  },
+  {
+    "name": "IconBarChartAddFill",
+    "title": "Bar Chart Add Fill",
+    "tag": "Bar Chart Add Fill"
+  },
+  {
+    "name": "IconBarChartRemoveFill",
+    "title": "Bar Chart Remove Fill",
+    "tag": "Bar Chart Remove Fill"
+  },
+  {
+    "name": "IconBarChartRemoveOutline",
+    "title": "Bar Chart Remove Outline",
+    "tag": "Bar Chart Remove Outline"
+  },
+  {
+    "name": "IconBriefcaseFill",
+    "title": "Briefcase Fill",
+    "tag": "Work"
+  },
+  {
+    "name": "IconBriefcaseOutline",
+    "title": "Briefcase Outline",
+    "tag": "Work"
+  },
+  {
+    "name": "IconBankCheckOutline",
+    "title": "Bank Check Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankMinusFill",
+    "title": "Bank Minus Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankRemoveFill",
+    "title": "Bank Remove Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankTransitOutline",
+    "title": "Bank Transit Outline",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankTransitFill",
+    "title": "Bank Transit Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBankPlusFill",
+    "title": "Bank Plus Fill",
+    "tag": "finance | money | wealth"
+  },
+  {
+    "name": "IconBandedFill",
+    "title": "Banded Fill",
+    "tag": "Banded Fill"
   }
 ]
