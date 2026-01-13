@@ -4613,5 +4613,340 @@
     "name": "IconOpenInNew",
     "title": "Open In New",
     "tag": "redirect | hyperlink"
+  },
+  {
+    "name": "IconPieChartFill",
+    "title": "Pie Chart Fill",
+    "tag": "Pie Chart Fill"
+  },
+  {
+    "name": "IconPieChartOutline",
+    "title": "Pie Chart Outline",
+    "tag": "Pie Chart Outline"
+  },
+  {
+    "name": "IconPrinterOutlineFill",
+    "title": "Printer Outline Fill",
+    "tag": "Printer Outline Fill"
+  },
+  {
+    "name": "IconPrinterOutlineOutline",
+    "title": "Printer Outline Outline",
+    "tag": "Printer Outline Outline"
+  },
+  {
+    "name": "IconPercent",
+    "title": "Percent",
+    "tag": "Percent"
+  },
+  {
+    "name": "IconPillOff",
+    "title": "Pill Off",
+    "tag": "Pill Off"
+  },
+  {
+    "name": "IconPill",
+    "title": "Pill",
+    "tag": "Pill"
+  },
+  {
+    "name": "IconPillMultiple",
+    "title": "Pill Multiple",
+    "tag": "Pill Multiple"
+  },
+  {
+    "name": "IconPauseCircleFill",
+    "title": "Pause Circle Fill",
+    "tag": "Pause Circle Fill"
+  },
+  {
+    "name": "IconPause",
+    "title": "Pause",
+    "tag": "Pause"
+  },
+  {
+    "name": "IconPlayOutline",
+    "title": "Play Outline",
+    "tag": "Play Outline"
+  },
+  {
+    "name": "IconPlayCircleOutline",
+    "title": "Play Circle Outline",
+    "tag": "Play Circle Outline"
+  },
+  {
+    "name": "IconPlayCircleFill",
+    "title": "Play Circle Fill",
+    "tag": "Play Circle Fill"
+  },
+  {
+    "name": "IconPauseCircleOutline",
+    "title": "Pause Circle Outline",
+    "tag": "Pause Circle Outline"
+  },
+  {
+    "name": "IconPlayFill",
+    "title": "Play Fill",
+    "tag": "Play Fill"
+  },
+  {
+    "name": "IconPlusMinusVariant",
+    "title": "Plus Minus Variant",
+    "tag": "Plus Minus Variant"
+  },
+  {
+    "name": "IconPlusMinusFill",
+    "title": "Plus Minus Fill",
+    "tag": "Plus Minus Fill"
+  },
+  {
+    "name": "IconPlusMinusOutline",
+    "title": "Plus Minus Outline",
+    "tag": "Plus Minus Outline"
+  },
+  {
+    "name": "IconPlusCircleMultipleOutline",
+    "title": "Plus Circle Multiple Outline",
+    "tag": "Plus Circle Multiple Outline"
+  },
+  {
+    "name": "IconPhoneOutline",
+    "title": "Phone Outline",
+    "tag": "Phone Outline"
+  },
+  {
+    "name": "IconPhoneFill",
+    "title": "Phone Fill",
+    "tag": "Phone Fill"
+  },
+  {
+    "name": "IconPreviewListOutline",
+    "title": "Preview List Outline",
+    "tag": "form | view"
+  },
+  {
+    "name": "IconProgramOutline",
+    "title": "Program Outline",
+    "tag": "Program Outline"
+  },
+  {
+    "name": "IconProgramFill",
+    "title": "Program Fill",
+    "tag": "Program Fill"
+  },
+  {
+    "name": "IconPetsOutline",
+    "title": "Pets Outline",
+    "tag": "Pets Outline"
+  },
+  {
+    "name": "IconPetsFill",
+    "title": "Pets Fill",
+    "tag": "Pets Fill"
+  },
+  {
+    "name": "IconParaglidingFill",
+    "title": "Paragliding Fill",
+    "tag": "Paragliding Fill"
+  },
+  {
+    "name": "IconParaglidingOutline",
+    "title": "Paragliding Outline",
+    "tag": "Paragliding Outline"
+  },
+  {
+    "name": "IconParking",
+    "title": "Parking",
+    "tag": "Parking"
+  },
+  {
+    "name": "IconPreviewListFill",
+    "title": "Preview List Fill",
+    "tag": "form | view"
+  },
+  {
+    "name": "IconPreviewListEditOutline",
+    "title": "Preview List Edit Outline",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconPreviewListEditFill",
+    "title": "Preview List Edit Fill",
+    "tag": "form | view | edit"
+  },
+  {
+    "name": "IconPersonalInjuryOutline",
+    "title": "Personal Injury Outline",
+    "tag": "Personal Injury Outline"
+  },
+  {
+    "name": "IconPersonalInjuryFill",
+    "title": "Personal Injury Fill",
+    "tag": "Personal Injury Fill"
+  },
+  {
+    "name": "IconPinRemoveFill",
+    "title": "Pin Remove Fill",
+    "tag": "Pin Remove Fill"
+  },
+  {
+    "name": "IconPinRemoveOutline",
+    "title": "Pin Remove Outline",
+    "tag": "Pin Remove Outline"
+  },
+  {
+    "name": "IconProductBoxOutline",
+    "title": "Product Box Outline",
+    "tag": "Product Box Outline"
+  },
+  {
+    "name": "IconProductBoxAddOutline",
+    "title": "Product Box Add Outline",
+    "tag": "Product Box Add Outline"
+  },
+  {
+    "name": "IconProductBoxEditOutline",
+    "title": "Product Box Edit Outline",
+    "tag": "Product Box Edit Outline"
+  },
+  {
+    "name": "IconProductBoxEditFill",
+    "title": "Product Box Edit Fill",
+    "tag": "Product Box Edit Fill"
+  },
+  {
+    "name": "IconProductBoxAddFill",
+    "title": "Product Box Add Fill",
+    "tag": "Product Box Add Fill"
+  },
+  {
+    "name": "IconProductBoxFill",
+    "title": "Product Box Fill",
+    "tag": "Product Box Fill"
+  },
+  {
+    "name": "IconPasteOff",
+    "title": "Paste Off",
+    "tag": "Paste Off"
+  },
+  {
+    "name": "IconPaste",
+    "title": "Paste",
+    "tag": "Paste"
+  },
+  {
+    "name": "IconPaymentMethodAmericanExpressStyleFill",
+    "title": "Payment Method American Express Style Fill",
+    "tag": "Payment Method American Express Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodAmericanExpressStyleColor",
+    "title": "Payment Method American Express Style Color",
+    "tag": "Payment Method American Express Style Color"
+  },
+  {
+    "name": "IconPaymentMethodUnionpayStyleFill",
+    "title": "Payment Method Unionpay Style Fill",
+    "tag": "Payment Method Unionpay Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodVisaStyleColor",
+    "title": "Payment Method Visa Style Color",
+    "tag": "Payment Method Visa Style Color"
+  },
+  {
+    "name": "IconPaymentMethodPaypalStyleColor",
+    "title": "Payment Method Paypal Style Color",
+    "tag": "Payment Method Paypal Style Color"
+  },
+  {
+    "name": "IconPaymentMethodUnionpayStyleColor",
+    "title": "Payment Method Unionpay Style Color",
+    "tag": "Payment Method Unionpay Style Color"
+  },
+  {
+    "name": "IconPaymentMethodPaypalStyleFill",
+    "title": "Payment Method Paypal Style Fill",
+    "tag": "Payment Method Paypal Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodMastercardStyleFill",
+    "title": "Payment Method Mastercard Style Fill",
+    "tag": "Payment Method Mastercard Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodVisaStyleFill",
+    "title": "Payment Method Visa Style Fill",
+    "tag": "Payment Method Visa Style Fill"
+  },
+  {
+    "name": "IconPaymentMethodMastercardStyleColor",
+    "title": "Payment Method Mastercard Style Color",
+    "tag": "Payment Method Mastercard Style Color"
+  },
+  {
+    "name": "IconPlusCircleMultipleFill",
+    "title": "Plus Circle Multiple Fill",
+    "tag": "Plus Circle Multiple Fill"
+  },
+  {
+    "name": "IconPowerbiStyleFill",
+    "title": "Powerbi Style Fill",
+    "tag": "Powerbi Style Fill"
+  },
+  {
+    "name": "IconPowerbiStyleOutline",
+    "title": "Powerbi Style Outline",
+    "tag": "Powerbi Style Outline"
+  },
+  {
+    "name": "IconPowerbiStyleColor",
+    "title": "Powerbi Style Color",
+    "tag": "Powerbi Style Color"
+  },
+  {
+    "name": "IconPingPongFill",
+    "title": "Ping Pong Fill",
+    "tag": "Ping Pong Fill"
+  },
+  {
+    "name": "IconPingPongOutline",
+    "title": "Ping Pong Outline",
+    "tag": "Ping Pong Outline"
+  },
+  {
+    "name": "IconPublic",
+    "title": "Public",
+    "tag": "Public"
+  },
+  {
+    "name": "IconPinOutline",
+    "title": "Pin Outline",
+    "tag": "Pin Outline"
+  },
+  {
+    "name": "IconPinFill",
+    "title": "Pin Fill",
+    "tag": "Pin Fill"
+  },
+  {
+    "name": "IconPendingFiilFalse",
+    "title": "Pending Fiil False",
+    "tag": "Pending Fiil False"
+  },
+  {
+    "name": "IconPendingFiilTrue",
+    "title": "Pending Fiil True",
+    "tag": "Pending Fiil True"
+  },
+  {
+    "name": "IconPaymentGoogleWallet",
+    "title": "Payment Google Wallet",
+    "tag": "Payment Google Wallet"
+  },
+  {
+    "name": "IconPaymentAppleWallet",
+    "title": "Payment Apple Wallet",
+    "tag": "Payment Apple Wallet"
   }
 ]
