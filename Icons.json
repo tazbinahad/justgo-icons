@@ -1983,5 +1983,290 @@
     "name": "IconDragIndicator",
     "title": "Drag Indicator",
     "tag": "Drag Indicator"
+  },
+  {
+    "name": "IconEditOutline",
+    "title": "Edit Outline",
+    "tag": "Edit Outline"
+  },
+  {
+    "name": "IconEditOffOutline",
+    "title": "Edit Off Outline",
+    "tag": "Edit Off Outline"
+  },
+  {
+    "name": "IconEducationFill",
+    "title": "Education Fill",
+    "tag": "Education Fill"
+  },
+  {
+    "name": "IconEducationOutline",
+    "title": "Education Outline",
+    "tag": "Education Outline"
+  },
+  {
+    "name": "IconEmojiOutline",
+    "title": "Emoji Outline",
+    "tag": "Emoji Outline"
+  },
+  {
+    "name": "IconEmojiFill",
+    "title": "Emoji Fill",
+    "tag": "Emoji Fill"
+  },
+  {
+    "name": "IconEyeOnOutline",
+    "title": "Eye On Outline",
+    "tag": "Eye On Outline"
+  },
+  {
+    "name": "IconEyeOffOutline",
+    "title": "Eye Off Outline",
+    "tag": "Eye Off Outline"
+  },
+  {
+    "name": "IconEyeOnFill",
+    "title": "Eye On Fill",
+    "tag": "Eye On Fill"
+  },
+  {
+    "name": "IconEyeOffFill",
+    "title": "Eye Off Fill",
+    "tag": "Eye Off Fill"
+  },
+  {
+    "name": "IconErrorDangerousStyleOutline",
+    "title": "Error Dangerous Style Outline",
+    "tag": "Error Dangerous Style Outline"
+  },
+  {
+    "name": "IconErrorDangerousStyleFill",
+    "title": "Error Dangerous Style Fill",
+    "tag": "Error Dangerous Style Fill"
+  },
+  {
+    "name": "IconErrorHexagonalFill",
+    "title": "Error Hexagonal Fill",
+    "tag": "Error Hexagonal Fill"
+  },
+  {
+    "name": "IconErrorFill",
+    "title": "Error Fill",
+    "tag": "Error Fill"
+  },
+  {
+    "name": "IconErrorOutline",
+    "title": "Error Outline",
+    "tag": "Error Outline"
+  },
+  {
+    "name": "IconErrorHexagonalOutline",
+    "title": "Error Hexagonal Outline",
+    "tag": "Error Hexagonal Outline"
+  },
+  {
+    "name": "IconEmailRemoveOutline",
+    "title": "Email Remove Outline",
+    "tag": "Email Remove Outline"
+  },
+  {
+    "name": "IconEmailRemoveFill",
+    "title": "Email Remove Fill",
+    "tag": "Email Remove Fill"
+  },
+  {
+    "name": "IconEmailOpenOutline",
+    "title": "Email Open Outline",
+    "tag": "Email Open Outline"
+  },
+  {
+    "name": "IconEmailOpenFill",
+    "title": "Email Open Fill",
+    "tag": "Email Open Fill"
+  },
+  {
+    "name": "IconEmailMinusOutline",
+    "title": "Email Minus Outline",
+    "tag": "Email Minus Outline"
+  },
+  {
+    "name": "IconEmailViewFill",
+    "title": "Email View Fill",
+    "tag": "Email View Fill"
+  },
+  {
+    "name": "IconEmailEditOutline",
+    "title": "Email Edit Outline",
+    "tag": "Email Edit Outline"
+  },
+  {
+    "name": "IconEmailAlertOutline",
+    "title": "Email Alert Outline",
+    "tag": "Email Alert Outline"
+  },
+  {
+    "name": "IconEmailPlusOutline",
+    "title": "Email Plus Outline",
+    "tag": "Email Plus Outline"
+  },
+  {
+    "name": "IconEmailPlusFill",
+    "title": "Email Plus Fill",
+    "tag": "Email Plus Fill"
+  },
+  {
+    "name": "IconEmailCheckOutline",
+    "title": "Email Check Outline",
+    "tag": "Email Check Outline"
+  },
+  {
+    "name": "IconEmailCheckFill",
+    "title": "Email Check Fill",
+    "tag": "Email Check Fill"
+  },
+  {
+    "name": "IconEmailArrowRightOutline",
+    "title": "Email Arrow Right Outline",
+    "tag": "Email Arrow Right Outline"
+  },
+  {
+    "name": "IconEmailArrowRightFill",
+    "title": "Email Arrow Right Fill",
+    "tag": "Email Arrow Right Fill"
+  },
+  {
+    "name": "IconEmailAlertFill",
+    "title": "Email Alert Fill",
+    "tag": "Email Alert Fill"
+  },
+  {
+    "name": "IconEmailEditFill",
+    "title": "Email Edit Fill",
+    "tag": "Email Edit Fill"
+  },
+  {
+    "name": "IconEmailFastOutline",
+    "title": "Email Fast Outline",
+    "tag": "Email Fast Outline"
+  },
+  {
+    "name": "IconEmailMinusFill",
+    "title": "Email Minus Fill",
+    "tag": "Email Minus Fill"
+  },
+  {
+    "name": "IconEmailFastFill",
+    "title": "Email Fast Fill",
+    "tag": "Email Fast Fill"
+  },
+  {
+    "name": "IconEmailOutline",
+    "title": "Email Outline",
+    "tag": "Email Outline"
+  },
+  {
+    "name": "IconEmailViewOutline",
+    "title": "Email View Outline",
+    "tag": "Email View Outline"
+  },
+  {
+    "name": "IconExportFileFill",
+    "title": "Export File Fill",
+    "tag": "Export File Fill"
+  },
+  {
+    "name": "IconExportFileOutline",
+    "title": "Export File Outline",
+    "tag": "Export File Outline"
+  },
+  {
+    "name": "IconEmailSendLaterOutline",
+    "title": "Email Send Later Outline",
+    "tag": "Email Send Later Outline"
+  },
+  {
+    "name": "IconExportFileCloseOutline",
+    "title": "Export File Close Outline",
+    "tag": "Export File Close Outline"
+  },
+  {
+    "name": "IconExportFileCloseFill",
+    "title": "Export File Close Fill",
+    "tag": "Export File Close Fill"
+  },
+  {
+    "name": "IconExportFileCheckOutline",
+    "title": "Export File Check Outline",
+    "tag": "Export File Check Outline"
+  },
+  {
+    "name": "IconExportFileCheckFill",
+    "title": "Export File Check Fill",
+    "tag": "Export File Check Fill"
+  },
+  {
+    "name": "IconEmailSendingOutline",
+    "title": "Email Sending Outline",
+    "tag": "Email Sending Outline"
+  },
+  {
+    "name": "IconEmailSendingFill",
+    "title": "Email Sending Fill",
+    "tag": "Email Sending Fill"
+  },
+  {
+    "name": "IconEditFill",
+    "title": "Edit Fill",
+    "tag": "Edit Fill"
+  },
+  {
+    "name": "IconEditOffFill",
+    "title": "Edit Off Fill",
+    "tag": "Edit Off Fill"
+  },
+  {
+    "name": "IconEmailManagementOutline",
+    "title": "Email Management Outline",
+    "tag": "Email Management Outline"
+  },
+  {
+    "name": "IconEmailManagementFill",
+    "title": "Email Management Fill",
+    "tag": "Email Management Fill"
+  },
+  {
+    "name": "IconExportOutline",
+    "title": "Export Outline",
+    "tag": "Export Outline"
+  },
+  {
+    "name": "IconExportFill",
+    "title": "Export Fill",
+    "tag": "Export Fill"
+  },
+  {
+    "name": "IconEmailSendLaterFill",
+    "title": "Email Send Later Fill",
+    "tag": "Email Send Later Fill"
+  },
+  {
+    "name": "IconErrorDangerousStyleBulk",
+    "title": "Error Dangerous Style Bulk",
+    "tag": "Error Dangerous Style Bulk"
+  },
+  {
+    "name": "IconEmergencyContactFill",
+    "title": "Emergency Contact Fill",
+    "tag": "Emergency Contact Fill"
+  },
+  {
+    "name": "IconEmergencyContactOutline",
+    "title": "Emergency Contact Outline",
+    "tag": "Emergency Contact Outline"
+  },
+  {
+    "name": "IconEmailFill",
+    "title": "Email Fill",
+    "tag": "Email Fill"
   }
 ]
