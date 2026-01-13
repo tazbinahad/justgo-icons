@@ -4308,5 +4308,285 @@
     "name": "IconMobileFill",
     "title": "Mobile Fill",
     "tag": "Mobile Fill"
+  },
+  {
+    "name": "IconNoteFilledOutline",
+    "title": "Note Filled Outline",
+    "tag": "Note Filled Outline"
+  },
+  {
+    "name": "IconNoteMulipleFill",
+    "title": "Note Muliple Fill",
+    "tag": "Note Muliple Fill"
+  },
+  {
+    "name": "IconNoteMinusOutline",
+    "title": "Note Minus Outline",
+    "tag": "Note Minus Outline"
+  },
+  {
+    "name": "IconNoteMinusFill",
+    "title": "Note Minus Fill",
+    "tag": "Note Minus Fill"
+  },
+  {
+    "name": "IconNoteFilledFill",
+    "title": "Note Filled Fill",
+    "tag": "Note Filled Fill"
+  },
+  {
+    "name": "IconNotePlusFill",
+    "title": "Note Plus Fill",
+    "tag": "Note Plus Fill"
+  },
+  {
+    "name": "IconNoteCheckOutline",
+    "title": "Note Check Outline",
+    "tag": "Note Check Outline"
+  },
+  {
+    "name": "IconNoteMulipleOutline",
+    "title": "Note Muliple Outline",
+    "tag": "Note Muliple Outline"
+  },
+  {
+    "name": "IconNoteCheckFill",
+    "title": "Note Check Fill",
+    "tag": "Note Check Fill"
+  },
+  {
+    "name": "IconNoteArrowRightOutline",
+    "title": "Note Arrow Right Outline",
+    "tag": "Note Arrow Right Outline"
+  },
+  {
+    "name": "IconNoteArrowRightFill",
+    "title": "Note Arrow Right Fill",
+    "tag": "Note Arrow Right Fill"
+  },
+  {
+    "name": "IconNoteAlartFill",
+    "title": "Note Alart Fill",
+    "tag": "Note Alart Fill"
+  },
+  {
+    "name": "IconNoteAlartOutline",
+    "title": "Note Alart Outline",
+    "tag": "Note Alart Outline"
+  },
+  {
+    "name": "IconNotebookRemoveOutline",
+    "title": "Notebook Remove Outline",
+    "tag": "Notebook Remove Outline"
+  },
+  {
+    "name": "IconNotebookRemoveFill",
+    "title": "Notebook Remove Fill",
+    "tag": "Notebook Remove Fill"
+  },
+  {
+    "name": "IconNotebookPlusOutline",
+    "title": "Notebook Plus Outline",
+    "tag": "Notebook Plus Outline"
+  },
+  {
+    "name": "IconNotebookPlusFill",
+    "title": "Notebook Plus Fill",
+    "tag": "Notebook Plus Fill"
+  },
+  {
+    "name": "IconNotebookMinusFill",
+    "title": "Notebook Minus Fill",
+    "tag": "Notebook Minus Fill"
+  },
+  {
+    "name": "IconNotebookFilledOutline",
+    "title": "Notebook Filled Outline",
+    "tag": "Notebook Filled Outline"
+  },
+  {
+    "name": "IconNotebookEditFill",
+    "title": "Notebook Edit Fill",
+    "tag": "Notebook Edit Fill"
+  },
+  {
+    "name": "IconNotebookMinusOutline",
+    "title": "Notebook Minus Outline",
+    "tag": "Notebook Minus Outline"
+  },
+  {
+    "name": "IconNotebookCheckFill",
+    "title": "Notebook Check Fill",
+    "tag": "Notebook Check Fill"
+  },
+  {
+    "name": "IconNotebookEditOutline",
+    "title": "Notebook Edit Outline",
+    "tag": "Notebook Edit Outline"
+  },
+  {
+    "name": "IconNotebookFilledFill",
+    "title": "Notebook Filled Fill",
+    "tag": "Notebook Filled Fill"
+  },
+  {
+    "name": "IconNotebookCheckOutline",
+    "title": "Notebook Check Outline",
+    "tag": "Notebook Check Outline"
+  },
+  {
+    "name": "IconNumeric5BoxFill",
+    "title": "Numeric5 Box Fill",
+    "tag": "Numeric5 Box Fill"
+  },
+  {
+    "name": "IconNumeric6BoxFill",
+    "title": "Numeric6 Box Fill",
+    "tag": "Numeric6 Box Fill"
+  },
+  {
+    "name": "IconNumeric6BoxOutline",
+    "title": "Numeric6 Box Outline",
+    "tag": "Numeric6 Box Outline"
+  },
+  {
+    "name": "IconNumeric7BoxFill",
+    "title": "Numeric7 Box Fill",
+    "tag": "Numeric7 Box Fill"
+  },
+  {
+    "name": "IconNumeric8BoxOutline",
+    "title": "Numeric8 Box Outline",
+    "tag": "Numeric8 Box Outline"
+  },
+  {
+    "name": "IconNumeric5BoxOutline",
+    "title": "Numeric5 Box Outline",
+    "tag": "Numeric5 Box Outline"
+  },
+  {
+    "name": "IconNumeric4BoxOutline",
+    "title": "Numeric4 Box Outline",
+    "tag": "Numeric4 Box Outline"
+  },
+  {
+    "name": "IconNumeric8BoxFill",
+    "title": "Numeric8 Box Fill",
+    "tag": "Numeric8 Box Fill"
+  },
+  {
+    "name": "IconNumeric2BoxOutline",
+    "title": "Numeric2 Box Outline",
+    "tag": "Numeric2 Box Outline"
+  },
+  {
+    "name": "IconNumeric3BoxFill",
+    "title": "Numeric3 Box Fill",
+    "tag": "Numeric3 Box Fill"
+  },
+  {
+    "name": "IconNumeric1BoxFill",
+    "title": "Numeric1 Box Fill",
+    "tag": "Numeric1 Box Fill"
+  },
+  {
+    "name": "IconNumeric4BoxFill",
+    "title": "Numeric4 Box Fill",
+    "tag": "Numeric4 Box Fill"
+  },
+  {
+    "name": "IconNumeric0BoxOutline",
+    "title": "Numeric0 Box Outline",
+    "tag": "Numeric0 Box Outline"
+  },
+  {
+    "name": "IconNumeric3BoxOutline",
+    "title": "Numeric3 Box Outline",
+    "tag": "Numeric3 Box Outline"
+  },
+  {
+    "name": "IconNumeric0BoxFill",
+    "title": "Numeric0 Box Fill",
+    "tag": "Numeric0 Box Fill"
+  },
+  {
+    "name": "IconNumeric2BoxFill",
+    "title": "Numeric2 Box Fill",
+    "tag": "Numeric2 Box Fill"
+  },
+  {
+    "name": "IconNumeric7BoxOutline",
+    "title": "Numeric7 Box Outline",
+    "tag": "Numeric7 Box Outline"
+  },
+  {
+    "name": "IconNumeric1BoxOutline",
+    "title": "Numeric1 Box Outline",
+    "tag": "Numeric1 Box Outline"
+  },
+  {
+    "name": "IconNotificationOutline",
+    "title": "Notification Outline",
+    "tag": "Notification Outline"
+  },
+  {
+    "name": "IconNotificationFill",
+    "title": "Notification Fill",
+    "tag": "Notification Fill"
+  },
+  {
+    "name": "IconNotificationOffOutline",
+    "title": "Notification Off Outline",
+    "tag": "Notification Off Outline"
+  },
+  {
+    "name": "IconNotificationOffFill",
+    "title": "Notification Off Fill",
+    "tag": "Notification Off Fill"
+  },
+  {
+    "name": "IconNotificationAddOutline",
+    "title": "Notification Add Outline",
+    "tag": "Notification Add Outline"
+  },
+  {
+    "name": "IconNotificationAddFill",
+    "title": "Notification Add Fill",
+    "tag": "Notification Add Fill"
+  },
+  {
+    "name": "IconNotificationOnOutline",
+    "title": "Notification On Outline",
+    "tag": "Notification On Outline"
+  },
+  {
+    "name": "IconNotificationOnFill",
+    "title": "Notification On Fill",
+    "tag": "Notification On Fill"
+  },
+  {
+    "name": "IconNotificationSettingsOutline",
+    "title": "Notification Settings Outline",
+    "tag": "Notification Settings Outline"
+  },
+  {
+    "name": "IconNotificationSettingsFill",
+    "title": "Notification Settings Fill",
+    "tag": "Notification Settings Fill"
+  },
+  {
+    "name": "IconNotePlusOutline",
+    "title": "Note Plus Outline",
+    "tag": "Note Plus Outline"
+  },
+  {
+    "name": "IconNumeric9BoxOutline",
+    "title": "Numeric9 Box Outline",
+    "tag": "Numeric9 Box Outline"
+  },
+  {
+    "name": "IconNumeric9BoxFill",
+    "title": "Numeric9 Box Fill",
+    "tag": "Numeric9 Box Fill"
   }
 ]
