@@ -6083,5 +6083,185 @@
     "name": "IconSickOutline",
     "title": "Sick Outline",
     "tag": "Sick Outline"
+  },
+  {
+    "name": "IconTagOutline",
+    "title": "Tag Outline",
+    "tag": "Tag Outline"
+  },
+  {
+    "name": "IconTagFill",
+    "title": "Tag Fill",
+    "tag": "Tag Fill"
+  },
+  {
+    "name": "IconTextTitle",
+    "title": "Text Title",
+    "tag": "Text Title"
+  },
+  {
+    "name": "IconTicketPercentOutline",
+    "title": "Ticket Percent Outline",
+    "tag": "Ticket Percent Outline"
+  },
+  {
+    "name": "IconTicketPercentFill",
+    "title": "Ticket Percent Fill",
+    "tag": "Ticket Percent Fill"
+  },
+  {
+    "name": "IconTicketOutline",
+    "title": "Ticket Outline",
+    "tag": "Ticket Outline"
+  },
+  {
+    "name": "IconTicketConfirmationFill",
+    "title": "Ticket Confirmation Fill",
+    "tag": "Ticket Confirmation Fill"
+  },
+  {
+    "name": "IconTicketAccountFill",
+    "title": "Ticket Account Fill",
+    "tag": "Ticket Account Fill"
+  },
+  {
+    "name": "IconTicketConfirmationOutline",
+    "title": "Ticket Confirmation Outline",
+    "tag": "Ticket Confirmation Outline"
+  },
+  {
+    "name": "IconTicketStarFill",
+    "title": "Ticket Star Fill",
+    "tag": "Ticket Star Fill"
+  },
+  {
+    "name": "IconTicketStarOutline",
+    "title": "Ticket Star Outline",
+    "tag": "Ticket Star Outline"
+  },
+  {
+    "name": "IconTuneVerticalDirectionHorizontal",
+    "title": "Tune Vertical Direction Horizontal",
+    "tag": "Tune Vertical Direction Horizontal"
+  },
+  {
+    "name": "IconTuneHorizontalVariantDirectionVertical",
+    "title": "Tune Horizontal Variant Direction Vertical",
+    "tag": "Tune Horizontal Variant Direction Vertical"
+  },
+  {
+    "name": "IconTuneHorizontalVariantDirectionHorizontal",
+    "title": "Tune Horizontal Variant Direction Horizontal",
+    "tag": "Tune Horizontal Variant Direction Horizontal"
+  },
+  {
+    "name": "IconTuneVerticalDirectionVertical",
+    "title": "Tune Vertical Direction Vertical",
+    "tag": "Tune Vertical Direction Vertical"
+  },
+  {
+    "name": "IconThumbDownFill",
+    "title": "Thumb Down Fill",
+    "tag": "Thumb Down Fill"
+  },
+  {
+    "name": "IconThumbDownOutline",
+    "title": "Thumb Down Outline",
+    "tag": "Thumb Down Outline"
+  },
+  {
+    "name": "IconThumbUpFill",
+    "title": "Thumb Up Fill",
+    "tag": "Thumb Up Fill"
+  },
+  {
+    "name": "IconThumbUpOutline",
+    "title": "Thumb Up Outline",
+    "tag": "Thumb Up Outline"
+  },
+  {
+    "name": "IconTicketFill",
+    "title": "Ticket Fill",
+    "tag": "Ticket Fill"
+  },
+  {
+    "name": "IconTabletOutline",
+    "title": "Tablet Outline",
+    "tag": "Tablet Outline"
+  },
+  {
+    "name": "IconTicketAddFill",
+    "title": "Ticket Add Fill",
+    "tag": "Ticket Add Fill"
+  },
+  {
+    "name": "IconTicketAddOutline",
+    "title": "Ticket Add Outline",
+    "tag": "Ticket Add Outline"
+  },
+  {
+    "name": "IconTicketRemoveFill",
+    "title": "Ticket Remove Fill",
+    "tag": "Ticket Remove Fill"
+  },
+  {
+    "name": "IconTicketRemoveOutline",
+    "title": "Ticket Remove Outline",
+    "tag": "Ticket Remove Outline"
+  },
+  {
+    "name": "IconTemplateOutline",
+    "title": "Template Outline",
+    "tag": "Template Outline"
+  },
+  {
+    "name": "IconTemplateFill",
+    "title": "Template Fill",
+    "tag": "Template Fill"
+  },
+  {
+    "name": "IconTranslate",
+    "title": "Translate",
+    "tag": "Translate"
+  },
+  {
+    "name": "IconTagTrialCircleFill",
+    "title": "Tag Trial Circle Fill",
+    "tag": "Tag Trial Circle Fill"
+  },
+  {
+    "name": "IconTagTrialCircleOutline",
+    "title": "Tag Trial Circle Outline",
+    "tag": "Tag Trial Circle Outline"
+  },
+  {
+    "name": "IconTagTrialOutline",
+    "title": "Tag Trial Outline",
+    "tag": "Tag Trial Outline"
+  },
+  {
+    "name": "IconTagTrialFill",
+    "title": "Tag Trial Fill",
+    "tag": "Tag Trial Fill"
+  },
+  {
+    "name": "IconTargetArrow",
+    "title": "Target Arrow",
+    "tag": "Target Arrow"
+  },
+  {
+    "name": "IconTarget",
+    "title": "Target",
+    "tag": "Target"
+  },
+  {
+    "name": "IconTicketAccountOutline",
+    "title": "Ticket Account Outline",
+    "tag": "Ticket Account Outline"
+  },
+  {
+    "name": "IconTabletFill",
+    "title": "Tablet Fill",
+    "tag": "Tablet Fill"
   }
 ]
