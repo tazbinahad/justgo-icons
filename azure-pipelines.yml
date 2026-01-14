@@ -1,5 +1,5 @@
 trigger:
-  - main
+  - CICD
 
 pool:
   vmImage: "ubuntu-latest"
@@ -12,10 +12,9 @@ stages:
         steps:
           - task: NodeTool@0
             inputs:
-              versionSpec: "18.x"
+              versionSpec: "20.x"
             displayName: "Install Node.js"
 
-          # Replaces Npm@1 task with script for Yarn
           - script: |
               npm install -g yarn
               yarn install --frozen-lockfile
@@ -66,7 +65,7 @@ stages:
     jobs:
       - deployment: DeployWeb
         displayName: "Deploy to Web"
-        environment: "docs-live" # No checks needed here, usually auto-deploy
+        environment: "docs-live"
         strategy:
           runOnce:
             deploy:
@@ -74,29 +73,27 @@ stages:
                 - download: current
                   artifact: docs
 
-                # EXAMPLE: Deploy to Azure Static Web Apps
-                # Your DevOps team needs to provide the token variable
-                # - task: AzureStaticWebApp@0
-                #   inputs:
-                #     app_location: '$(Pipeline.Workspace)/docs'
-                #     # output_location: '' # Docs is already built
-                #     azure_static_web_apps_api_token: $(deployment_token)
+                # OPTION 1: Azure Static Web Apps
+                - task: AzureStaticWebApp@0
+                  inputs:
+                    app_location: "$(Pipeline.Workspace)/docs"
+                    skip_app_build: true
+                    skip_api_build: true
+                    azure_static_web_apps_api_token: $(deployment_token)
+                  displayName: "Deploy to Azure Static Web Apps"
 
-                # Placeholder script to simulate deployment if no provider set
-                - script: |
-                    echo "Deploying Docs from $(Pipeline.Workspace)/docs..."
-                    # Add your actual deployment command here (e.g. S3, Azure Web App, etc.)
-                    ls -R $(Pipeline.Workspace)/docs
-                  displayName: "Run Deployment Script"
+                # OPTION 2: Azure App Service (Placeholder)
+                # - task: AzureRmWebAppDeployment@4
+                #   inputs: ...
 
   - stage: PublishNpm
     displayName: "Publish to npm"
-    dependsOn: DeployDocscs
+    dependsOn: DeployDocs
     condition: succeeded()
     jobs:
       - deployment: NPM_Release
         displayName: "Release to npm"
-        environment: "npm-release" # <--- THIS HAS THE MANUAL APPROVAL CHECK
+        environment: "npm-release" # <--- THIS ENFORCES MANUAL APPROVAL IN AZURE
         strategy:
           runOnce:
             deploy:
