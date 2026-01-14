@@ -1,6 +1,6 @@
 {
   "name": "@justgo/icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "description": "Icon library for JG project",
   "main": "dist/index.cjs",
