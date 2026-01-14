@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "generate-index",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"scripts/generate-index.js"
+			],
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}
