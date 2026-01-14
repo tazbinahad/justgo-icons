@@ -101,18 +101,16 @@ stages:
           runOnce:
             deploy:
               steps:
-          - task: NodeTool@0
-            inputs:
-              versionSpec: "20.x"
-            displayName: "Install Node.js"
+                - task: NodeTool@0
+                  inputs:
+                    versionSpec: "20.x"
+                  displayName: "Install Node.js"
 
                 - task: npmAuthenticate@0
                   inputs:
                     workingFile: "$(Pipeline.Workspace)/npm-package/.npmrc"
                   displayName: "Authenticate with Azure Artifacts"
 
-                # We keep npm publish here because it reliably uses the .npmrc authentication
-                # set up by the previous task. Yarn publish can be finicky with auth in CI.
                 - script: |
                     cd $(Pipeline.Workspace)/npm-package
                     npm publish
