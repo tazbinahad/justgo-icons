@@ -15,18 +15,18 @@ stages:
               versionSpec: "18.x"
             displayName: "Install Node.js"
 
-          - task: Npm@1
-            inputs:
-              command: "custom"
-              customCommand: "ci"
-            displayName: "Install dependencies"
+          # Replaces Npm@1 task with script for Yarn
+          - script: |
+              npm install -g yarn
+              yarn install --frozen-lockfile
+            displayName: "Install dependencies (Yarn)"
 
           - script: |
-              npm run build
+              yarn build
             displayName: "Build Library"
 
           - script: |
-              npm run build-storybook
+              yarn build-storybook
             displayName: "Build Storybook"
 
           # Publish Storybook files for the Deploy stage
@@ -111,6 +111,8 @@ stages:
                     workingFile: "$(Pipeline.Workspace)/npm-package/.npmrc"
                   displayName: "Authenticate with Azure Artifacts"
 
+                # We keep npm publish here because it reliably uses the .npmrc authentication
+                # set up by the previous task. Yarn publish can be finicky with auth in CI.
                 - script: |
                     cd $(Pipeline.Workspace)/npm-package
                     npm publish

@@ -19,11 +19,13 @@ jobs:
           scope: "@justgo"
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn install --frozen-lockfile
 
       - name: Build
-        run: npm run build
+        run: yarn build
 
+      # We keep npm publish here because it reliably uses the .npmrc authentication
+      # set up by the previous Setup Node task.
       - name: Publish to Azure Artifacts
         run: npm publish
         env:
