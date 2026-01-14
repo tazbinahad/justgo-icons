@@ -26,7 +26,7 @@ const IconPaymentAppleWallet = (props: IconBaseProps) => {
             fill="#3295C9"
           />
           <mask
-            style="mask-type:luminance"
+            style={{ maskType: 'luminance' }}
             maskUnits="userSpaceOnUse"
             x="0"
             y="4"
@@ -53,7 +53,7 @@ const IconPaymentAppleWallet = (props: IconBaseProps) => {
             fill="#FCAD00"
           />
           <mask
-            style="mask-type:luminance"
+            style={{ maskType: 'luminance' }}
             maskUnits="userSpaceOnUse"
             x="0"
             y="6"
@@ -80,7 +80,7 @@ const IconPaymentAppleWallet = (props: IconBaseProps) => {
             fill="#50BE3D"
           />
           <mask
-            style="mask-type:luminance"
+            style={{ maskType: 'luminance' }}
             maskUnits="userSpaceOnUse"
             x="0"
             y="8"
@@ -103,7 +103,7 @@ const IconPaymentAppleWallet = (props: IconBaseProps) => {
             </g>
           </g>
           <mask
-            style="mask-type:luminance"
+            style={{ maskType: 'luminance' }}
             maskUnits="userSpaceOnUse"
             x="0"
             y="10"
