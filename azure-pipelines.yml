@@ -1,33 +1,117 @@
-# trigger:
-#   - main
+trigger:
+  - main
 
-# pool:
-#   vmImage: "ubuntu-latest"
+pool:
+  vmImage: "ubuntu-latest"
 
-# variables:
-#   npm_config_cache: $(Pipeline.Workspace)/.npm
+stages:
+  - stage: Build
+    displayName: "Build and Verify"
+    jobs:
+      - job: Build
+        steps:
+          - task: NodeTool@0
+            inputs:
+              versionSpec: "18.x"
+            displayName: "Install Node.js"
 
-# steps:
-#   - task: NodeTool@0
-#     inputs:
-#       versionSpec: "18.x"
-#     displayName: "Install Node.js"
+          - task: Npm@1
+            inputs:
+              command: "custom"
+              customCommand: "ci"
+            displayName: "Install dependencies"
 
-#   - task: Npm@1
-#     inputs:
-#       command: "custom"
-#       customCommand: "ci"
-#     displayName: "Install dependencies"
+          - script: |
+              npm run build
+            displayName: "Build Library"
 
-#   - script: |
-#       npm run build
-#     displayName: "Build project"
+          - script: |
+              npm run build-storybook
+            displayName: "Build Storybook"
 
-#   - task: npmAuthenticate@0
-#     inputs:
-#       workingFile: ".npmrc"
-#     displayName: "Authenticate with Azure Artifacts"
+          # Publish Storybook files for the Deploy stage
+          - task: PublishBuildArtifacts@1
+            inputs:
+              PathtoPublish: "storybook-static"
+              ArtifactName: "storybook"
+              publishLocation: "Container"
+            displayName: "Publish Storybook Artifact"
 
-#   - script: |
-#       npm publish
-#     displayName: "Publish to Azure Artifacts"
+          # Prepare files for the PublishNpm stage
+          - task: CopyFiles@2
+            inputs:
+              SourceFolder: "$(System.DefaultWorkingDirectory)"
+              Contents: |
+                package.json
+                README.md
+                .npmrc
+                dist/**
+                scripts/**
+                Icons.json
+                src/**
+              TargetFolder: "$(Build.ArtifactStagingDirectory)/npm-package"
+            displayName: "Stage Package Files"
+
+          - task: PublishBuildArtifacts@1
+            inputs:
+              PathtoPublish: "$(Build.ArtifactStagingDirectory)/npm-package"
+              ArtifactName: "npm-package"
+              publishLocation: "Container"
+            displayName: "Publish Package Artifact"
+
+  - stage: DeployStorybook
+    displayName: "Deploy Storybook"
+    dependsOn: Build
+    condition: succeeded()
+    jobs:
+      - deployment: DeployWeb
+        displayName: "Deploy to Web"
+        environment: "storybook-live" # No checks needed here, usually auto-deploy
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - download: current
+                  artifact: storybook
+
+                # EXAMPLE: Deploy to Azure Static Web Apps
+                # Your DevOps team needs to provide the token variable
+                # - task: AzureStaticWebApp@0
+                #   inputs:
+                #     app_location: '$(Pipeline.Workspace)/storybook'
+                #     # output_location: '' # Storybook is already built
+                #     azure_static_web_apps_api_token: $(deployment_token)
+
+                # Placeholder script to simulate deployment if no provider set
+                - script: |
+                    echo "Deploying Storybook from $(Pipeline.Workspace)/storybook..."
+                    # Add your actual deployment command here (e.g. S3, Azure Web App, etc.)
+                    ls -R $(Pipeline.Workspace)/storybook
+                  displayName: "Run Deployment Script"
+
+  - stage: PublishNpm
+    displayName: "Publish to npm"
+    dependsOn: DeployStorybook
+    condition: succeeded()
+    jobs:
+      - deployment: NPM_Release
+        displayName: "Release to npm"
+        environment: "npm-release" # <--- THIS HAS THE MANUAL APPROVAL CHECK
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - task: NodeTool@0
+                  inputs:
+                    versionSpec: "18.x"
+                  displayName: "Install Node.js"
+
+                - task: npmAuthenticate@0
+                  inputs:
+                    workingFile: "$(Pipeline.Workspace)/npm-package/.npmrc"
+                  displayName: "Authenticate with Azure Artifacts"
+
+                - script: |
+                    cd $(Pipeline.Workspace)/npm-package
+                    npm publish
+                  displayName: "Publish to Azure Artifacts"
