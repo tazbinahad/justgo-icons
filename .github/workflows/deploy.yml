@@ -35,8 +35,8 @@ jobs:
       - name: Build Library
         run: yarn build
 
-      - name: Build Storybook
-        run: yarn build-storybook
+      - name: Build Docs Site
+        run: yarn build-docs
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -44,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "./storybook-static"
+          path: "./docs-dist"
 
       - name: Deploy to GitHub Pages
         id: deployment

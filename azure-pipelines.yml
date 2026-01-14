@@ -26,16 +26,16 @@ stages:
             displayName: "Build Library"
 
           - script: |
-              yarn build-storybook
-            displayName: "Build Storybook"
+              yarn build-docs
+            displayName: "Build Docs Site"
 
-          # Publish Storybook files for the Deploy stage
+          # Publish Docs files for the Deploy stage
           - task: PublishBuildArtifacts@1
             inputs:
-              PathtoPublish: "storybook-static"
-              ArtifactName: "storybook"
+              PathtoPublish: "docs-dist"
+              ArtifactName: "docs"
               publishLocation: "Container"
-            displayName: "Publish Storybook Artifact"
+            displayName: "Publish Docs Artifact"
 
           # Prepare files for the PublishNpm stage
           - task: CopyFiles@2
@@ -59,39 +59,39 @@ stages:
               publishLocation: "Container"
             displayName: "Publish Package Artifact"
 
-  - stage: DeployStorybook
-    displayName: "Deploy Storybook"
+  - stage: DeployDocs
+    displayName: "Deploy Docs"
     dependsOn: Build
     condition: succeeded()
     jobs:
       - deployment: DeployWeb
         displayName: "Deploy to Web"
-        environment: "storybook-live" # No checks needed here, usually auto-deploy
+        environment: "docs-live" # No checks needed here, usually auto-deploy
         strategy:
           runOnce:
             deploy:
               steps:
                 - download: current
-                  artifact: storybook
+                  artifact: docs
 
                 # EXAMPLE: Deploy to Azure Static Web Apps
                 # Your DevOps team needs to provide the token variable
                 # - task: AzureStaticWebApp@0
                 #   inputs:
-                #     app_location: '$(Pipeline.Workspace)/storybook'
-                #     # output_location: '' # Storybook is already built
+                #     app_location: '$(Pipeline.Workspace)/docs'
+                #     # output_location: '' # Docs is already built
                 #     azure_static_web_apps_api_token: $(deployment_token)
 
                 # Placeholder script to simulate deployment if no provider set
                 - script: |
-                    echo "Deploying Storybook from $(Pipeline.Workspace)/storybook..."
+                    echo "Deploying Docs from $(Pipeline.Workspace)/docs..."
                     # Add your actual deployment command here (e.g. S3, Azure Web App, etc.)
-                    ls -R $(Pipeline.Workspace)/storybook
+                    ls -R $(Pipeline.Workspace)/docs
                   displayName: "Run Deployment Script"
 
   - stage: PublishNpm
     displayName: "Publish to npm"
-    dependsOn: DeployStorybook
+    dependsOn: DeployDocscs
     condition: succeeded()
     jobs:
       - deployment: NPM_Release
