@@ -65,7 +65,7 @@ stages:
     jobs:
       - deployment: DeployWeb
         displayName: "Deploy to Web"
-        environment: "docs-live"
+        environment: "storybook-live"
         strategy:
           runOnce:
             deploy:
