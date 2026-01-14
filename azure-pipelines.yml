@@ -101,10 +101,10 @@ stages:
           runOnce:
             deploy:
               steps:
-                - task: NodeTool@0
-                  inputs:
-                    versionSpec: "18.x"
-                  displayName: "Install Node.js"
+          - task: NodeTool@0
+            inputs:
+              versionSpec: "20.x"
+            displayName: "Install Node.js"
 
                 - task: npmAuthenticate@0
                   inputs:
